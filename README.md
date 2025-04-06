@@ -10,12 +10,16 @@ A curated list of awesome Web3 Model Context Protocol (MCP) servers.
 
 [MCP](https://modelcontextprotocol.io/) is an open protocol that standardizes how applications provide context to LLMs. Think of MCP like a USB-C port for AI applications. Just as USB-C provides a standardized way to connect your devices to various peripherals and accessories, MCP provides a standardized way to connect AI models to different data sources and tools.
 
+![](https://github.com/demcp/awesome-web3-mcp-servers/blob/silvamayla-patch/IMG/image1.jpg)
+
 
 ## What is DeMCP?
 
 DeMCP is the first decentralized MCP network and a core infrastructure between AI and Web3. It focuses on providing Agents with self-developed and open-source MCP services, offering MCP developers a deployment platform with commercial revenue sharing, and enabling one-stop access to mainstream large language models (LLMs). By supporting crypto payments (USDT, USDC), DeMCP allows global developers to participate easily. Combined with TEE and a blockchain registry, DeMCP redefines the security and reliability of MCP, accelerating the advancement of the Agent industry.
 
 👏 Follow [𝕏(Twitter) Group](https://x.com/DeMCP_AI) | Join [Telegram Group](https://t.me/DeMCPOfficial) | Visit [Official Web Site](https://www.demcp.ai)
+
+![](https://github.com/demcp/awesome-web3-mcp-servers/blob/silvamayla-patch/IMG/image2.jpg)
 
 
 ## Web3 MCP Categories
