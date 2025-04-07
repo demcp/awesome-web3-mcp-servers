@@ -10,7 +10,14 @@ A curated list of awesome Web3 Model Context Protocol (MCP) servers.
 
 [MCP](https://modelcontextprotocol.io/) is an open protocol that standardizes how applications provide context to LLMs. Think of MCP like a USB-C port for AI applications. Just as USB-C provides a standardized way to connect your devices to various peripherals and accessories, MCP provides a standardized way to connect AI models to different data sources and tools.
 
-![](https://github.com/demcp/awesome-web3-mcp-servers/blob/silvamayla-patch/IMG/image1.jpg)
+![](https://github.com/demcp/awesome-web3-mcp-servers/blob/main/IMG/image1.jpg)
+
+
+## Tutorials
+
+* [Get started with the MCP (Official Introduction)](https://modelcontextprotocol.io/introduction)
+* [What's New?  (Official Updates)](https://modelcontextprotocol.io/development/updates)
+* [Development plans for MCP (Official Roadmap)](https://modelcontextprotocol.io/development/roadmap)
 
 
 ## What is DeMCP?
@@ -19,7 +26,12 @@ DeMCP is the first decentralized MCP network and a core infrastructure between A
 
 👏 Follow [𝕏(Twitter) Group](https://x.com/DeMCP_AI) | Join [Telegram Group](https://t.me/DeMCPOfficial) | Visit [Official Web Site](https://www.demcp.ai)
 
-![](https://github.com/demcp/awesome-web3-mcp-servers/blob/silvamayla-patch/IMG/image2.jpg)
+![](https://github.com/demcp/awesome-web3-mcp-servers/blob/main/IMG/image2.jpg)
+
+
+## Community
+
+* [DeMCP Official Telegram](https://t.me/DeMCPOfficial)
 
 
 ## Web3 MCP Categories
