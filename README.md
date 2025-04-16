@@ -95,6 +95,7 @@ Market Data MCP modules retrieve real-time market data from on-chain and off-cha
 - [kukapay/cryptopanic-mcp-server](https://github.com/kukapay/cryptopanic-mcp-server) - Provide the latest cryptocurrency news to AI agents, powered by CryptoPanic.
 - [kukapay/crypto-feargreed-mcp](https://github.com/kukapay/crypto-feargreed-mcp) - An MCP server that provides real-time and historical Crypto Fear & Greed Index data, powered by the Alternative.me.
 - [kukapay/whale-tracker-mcp](https://github.com/kukapay/whale-tracker-mcp) - An Model Context Protocol (MCP) server for tracking cryptocurrency whale transactions using the Whale Alert API.
+- [aaronjmars/web3-research-mcp](https://github.com/aaronjmars/web3-research-mcp/) - Deep Research for crypto - free & fully local.
 
 
 ### 💬 <a name="social"></a>Social
