@@ -60,6 +60,13 @@ Chain-RPC MCP modules interact with multiple blockchains by abstracting their RP
 - [AbdelStark/lightning-mcp](https://github.com/AbdelStark/lightning-mcp) - An Model Context Protocol (MCP) server that enables AI models to interact with Lightning Network, allowing them to pay invoices.
 - [marctheshark3/ergo-mcp](https://github.com/marctheshark3/ergo-mcp) - An Model Context Protocol (MCP) server for interacting with the Ergo blockchain.
 - [kukapay/thegraph-mcp](https://github.com/kukapay/thegraph-mcp) - An MCP server that powers AI agents with indexed blockchain data from The Graph.
+- [GoPlausible/algorand-mcp](https://github.com/GoPlausible/algorand-mcp) - Algorand Model Context Protocol (Server & Client).
+- [dcSpark/mcp-server-helius](https://github.com/dcSpark/mcp-server-helius) - an Model Context Protocol (MCP) server that provides Claude with access to Solana blockchain data via the Helius API.
+- [itsanishjain/alchemy-sdk-mcp](https://github.com/itsanishjain/alchemy-sdk-mcp) - This MCP plugin provides integration with the Alchemy SDK for blockchain and NFT operations.
+- [Dablclub/polygon-mcp](https://github.com/Dablclub/polygon-mcp) - An Model Context Protocol (MCP) server that provides onchain tools for Claude AI, allowing it to interact with the Polygon PoS blockchain.
+- [lmcmz/flow-mcp-server](https://github.com/lmcmz/flow-mcp-server) - An Model Context Protocol (MCP) server for interacting with the Flow blockchain.
+- [nearai/near-mcp](https://github.com/nearai/near-mcp) - An MCP server for the NEAR blockchain.
+- [qvkare/linea-mcp](https://github.com/qvkare/linea-mcp) - An Model Context Protocol (MCP) server that provides on-chain tools for AI applications to interact with the Linea blockchain.
 
 
 ### 💰 <a name="trading"></a>Trading
@@ -71,6 +78,7 @@ Trading MCP modules perform trading operations by integrating with both DEX and 
 - [magnetai/mcp-free-usdc-transfer](https://github.com/magnetai/mcp-free-usdc-transfer) - An MCP server implementation enabling free USDC transfers on Base with Coinbase CDP MPC Wallet integration.
 - [kukapay/uniswap-trader-mcp](https://github.com/kukapay/uniswap-trader-mcp) - An MCP server for AI agents to automate token swaps on Uniswap DEX across multiple blockchains.
 - [kukapay/token-minter-mcp](https://github.com/kukapay/token-minter-mcp) - An MCP server providing tools for AI agents to mint ERC-20 tokens, supporting 21 blockchains.
+- [armorwallet/armor-crypto-mcp](https://github.com/armorwallet/armor-crypto-mcp) - The MCP server for interacting with Blockchain, Swaps, Strategic Planning and more.
 
 
 ### 🔄 <a name="defi"></a>DeFi
@@ -97,6 +105,8 @@ Market Data MCP modules retrieve real-time market data from on-chain and off-cha
 - [kukapay/crypto-feargreed-mcp](https://github.com/kukapay/crypto-feargreed-mcp) - An MCP server that provides real-time and historical Crypto Fear & Greed Index data, powered by the Alternative.me.
 - [kukapay/whale-tracker-mcp](https://github.com/kukapay/whale-tracker-mcp) - An Model Context Protocol (MCP) server for tracking cryptocurrency whale transactions using the Whale Alert API.
 - [aaronjmars/web3-research-mcp](https://github.com/aaronjmars/web3-research-mcp/) - Deep Research for crypto - free & fully local.
+- [openSVM/dexscreener-mcp-server](https://github.com/openSVM/dexscreener-mcp-server) - An MCP server implementation for accessing the DexScreener API, providing real-time access to DEX pair data, token information, and market statistics across multiple blockchains.
+- [pwh-pwh/coin-mcp-server](https://github.com/pwh-pwh/coin-mcp-server) - Use Bitget’s API to get cryptocurrency info.
 
 
 ### 💬 <a name="social"></a>Social
