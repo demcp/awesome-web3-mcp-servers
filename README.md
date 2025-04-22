@@ -74,6 +74,7 @@ Chain-RPC MCP modules interact with multiple blockchains by abstracting their RP
 Trading MCP modules perform trading operations by integrating with both DEX and CEX platforms through unified interfaces.
 
 - [TermiX-official/binance-mcp](https://github.com/TermiX-official/binance-mcp) - Binance MCP Server is a backend service designed to interact with the Binance API.
+- [TP Wallet MCP](https://www.npmjs.com/package/wallet-mcp?activeTab=readme) - TP Wallet MCP is an npm package that provides a seamless integration between AI Clients and user's crypto wallets.
 - [dcSpark/mcp-server-jupiter](https://github.com/dcSpark/mcp-server-jupiter) - This repository contains a Model Context Protocol (MCP) server that provides Claude with access to Jupiter's swap API.
 - [magnetai/mcp-free-usdc-transfer](https://github.com/magnetai/mcp-free-usdc-transfer) - An MCP server implementation enabling free USDC transfers on Base with Coinbase CDP MPC Wallet integration.
 - [kukapay/uniswap-trader-mcp](https://github.com/kukapay/uniswap-trader-mcp) - An MCP server for AI agents to automate token swaps on Uniswap DEX across multiple blockchains.
