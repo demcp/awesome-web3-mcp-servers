@@ -67,6 +67,9 @@ Chain-RPC MCP modules interact with multiple blockchains by abstracting their RP
 - [lmcmz/flow-mcp-server](https://github.com/lmcmz/flow-mcp-server) - An Model Context Protocol (MCP) server for interacting with the Flow blockchain.
 - [nearai/near-mcp](https://github.com/nearai/near-mcp) - An MCP server for the NEAR blockchain.
 - [qvkare/linea-mcp](https://github.com/qvkare/linea-mcp) - An Model Context Protocol (MCP) server that provides on-chain tools for AI applications to interact with the Linea blockchain.
+- [Codex-Data/codex-mcp](https://github.com/Codex-Data/codex-mcp) - An MCP server that provides enriched blockchain data from Codex. This server can be used with any MCP-compatible client like Claude Desktop.
+- [mcpdotdirect/starknet-mcp-server](https://github.com/mcpdotdirect/starknet-mcp-server) - A comprehensive Model Context Protocol (MCP) server for the Starknet blockchain. This server provides AI agents with the ability to interact with Starknet networks, query blockchain data, manage wallets, and interact with smart contracts.
+- [RomThpt/mcp-xrpl](https://github.com/RomThpt/mcp-xrpl) - A comprehensive Model Context Protocol (MCP) server that provides blockchain services for the XRP Ledger ecosystem.
 
 
 ### 💰 <a name="trading"></a>Trading
@@ -80,6 +83,9 @@ Trading MCP modules perform trading operations by integrating with both DEX and 
 - [kukapay/uniswap-trader-mcp](https://github.com/kukapay/uniswap-trader-mcp) - An MCP server for AI agents to automate token swaps on Uniswap DEX across multiple blockchains.
 - [kukapay/token-minter-mcp](https://github.com/kukapay/token-minter-mcp) - An MCP server providing tools for AI agents to mint ERC-20 tokens, supporting 21 blockchains.
 - [armorwallet/armor-crypto-mcp](https://github.com/armorwallet/armor-crypto-mcp) - The MCP server for interacting with Blockchain, Swaps, Strategic Planning and more.
+- [mektigboy/server-hyperliquid](https://github.com/mektigboy/server-hyperliquid) - An MCP server implementation that integrates the Hyperliquid SDK.
+- [getalby/nwc-mcp-server](https://github.com/getalby/nwc-mcp-server) - Connect a bitcoin lightning wallet to your LLM using Nostr Wallet Connect (NWC or NIP-47).
+- [sammcj/bybit-mcp](https://github.com/sammcj/bybit-mcp) - An MCP server that provides read-only access to Bybit's cryptocurrency exchange API.
 
 
 ### 🔄 <a name="defi"></a>DeFi
@@ -108,6 +114,7 @@ Market Data MCP modules retrieve real-time market data from on-chain and off-cha
 - [aaronjmars/web3-research-mcp](https://github.com/aaronjmars/web3-research-mcp/) - Deep Research for crypto - free & fully local.
 - [openSVM/dexscreener-mcp-server](https://github.com/openSVM/dexscreener-mcp-server) - An MCP server implementation for accessing the DexScreener API, providing real-time access to DEX pair data, token information, and market statistics across multiple blockchains.
 - [pwh-pwh/coin-mcp-server](https://github.com/pwh-pwh/coin-mcp-server) - Use Bitget’s API to get cryptocurrency info.
+- [ahnlabio/bicscan-mcp](https://github.com/ahnlabio/bicscan-mcp) - A powerful and efficient Blockchain address risk scoring API MCP Server, leveraging the BICScan API to provide comprehensive risk assessments and asset information for blockchain addresses, domains, and decentralized applications (dApps).
 
 
 ### 💬 <a name="social"></a>Social
@@ -118,3 +125,4 @@ Social MCP modules integrate with social platforms and protocols to enable ident
 - [hanweg/mcp-discord](https://github.com/hanweg/mcp-discord) - An Model Context Protocol (MCP) server that provides Discord integration capabilities to MCP clients like Claude Desktop.
 - [sparfenyuk/mcp-telegram](https://github.com/sparfenyuk/mcp-telegram) - The server is a bridge between the Telegram API and the AI assistants and is based on the Model Context Protocol.
 - [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) - Official Notion MCP Server.
+
