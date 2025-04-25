@@ -86,6 +86,11 @@ Trading MCP modules perform trading operations by integrating with both DEX and 
 - [mektigboy/server-hyperliquid](https://github.com/mektigboy/server-hyperliquid) - An MCP server implementation that integrates the Hyperliquid SDK.
 - [getalby/nwc-mcp-server](https://github.com/getalby/nwc-mcp-server) - Connect a bitcoin lightning wallet to your LLM using Nostr Wallet Connect (NWC or NIP-47).
 - [sammcj/bybit-mcp](https://github.com/sammcj/bybit-mcp) - An MCP server that provides read-only access to Bybit's cryptocurrency exchange API.
+- [b-open-io/bsv-mcp](https://github.com/b-open-io/bsv-mcp) - A collection of Bitcoin SV (BSV) tools for the Model Context Protocol (MCP) framework. This library provides wallet, ordinals, and utility functions for BSV blockchain interaction.
+- [doubledare704/aiowhitebit-mcp](https://github.com/doubledare704/aiowhitebit-mcp) - Message Control Protocol (MCP) server and client implementation for WhiteBit cryptocurrency exchange API. Built on top of aiowhitebit library and fastmcp.
+- [fere-ai/mcp-server](https://github.com/fere-ai/mcp-server) - A Model Conntext Protocol (MCP) server for interacting with the 0xMONK Trading Agent API.
+- [georgyturevich/kuru-mcp-server](https://github.com/georgyturevich/kuru-mcp-server) - This project implements a Model Context Protocol (MCP) server for accessing Kuru.io crypto exchange data, making it accessible to LLMs and AI assistants.
+- [solangii/upbit-mcp-server](https://github.com/solangii/upbit-mcp-server) - A server implementation for Upbit Cryptocurrency Exchange OpenAPI using the Model Context Protocol (MCP). This project provides tools to interact with Upbit exchange services, such as retrieving market data (quotes, orderbooks, trade history, chart data), account information, creating and canceling orders, managing deposits/withdrawals, and performing technical analysis.
 
 
 ### 🔄 <a name="defi"></a>DeFi
@@ -115,6 +120,8 @@ Market Data MCP modules retrieve real-time market data from on-chain and off-cha
 - [openSVM/dexscreener-mcp-server](https://github.com/openSVM/dexscreener-mcp-server) - An MCP server implementation for accessing the DexScreener API, providing real-time access to DEX pair data, token information, and market statistics across multiple blockchains.
 - [pwh-pwh/coin-mcp-server](https://github.com/pwh-pwh/coin-mcp-server) - Use Bitget’s API to get cryptocurrency info.
 - [ahnlabio/bicscan-mcp](https://github.com/ahnlabio/bicscan-mcp) - A powerful and efficient Blockchain address risk scoring API MCP Server, leveraging the BICScan API to provide comprehensive risk assessments and asset information for blockchain addresses, domains, and decentralized applications (dApps).
+- [CoinStatsHQ/coinstats-mcp](https://github.com/CoinStatsHQ/coinstats-mcp) - MCP Server for the CoinStats API. Provides access to cryptocurrency market data, portfolio tracking, and news.
+- [tony-42069/solana-mcp](https://github.com/tony-42069/solana-mcp) - A comprehensive Solana MCP (Model Context Protocol) server for analyzing memecoins, tracking trends, and providing AI-powered insights using cultural analysis and on-chain data.
 
 
 ### 💬 <a name="social"></a>Social
