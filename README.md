@@ -81,6 +81,8 @@ Trading MCP modules perform trading operations by integrating with both DEX and 
 - [dcSpark/mcp-server-jupiter](https://github.com/dcSpark/mcp-server-jupiter) - This repository contains a Model Context Protocol (MCP) server that provides Claude with access to Jupiter's swap API.
 - [magnetai/mcp-free-usdc-transfer](https://github.com/magnetai/mcp-free-usdc-transfer) - An MCP server implementation enabling free USDC transfers on Base with Coinbase CDP MPC Wallet integration.
 - [kukapay/uniswap-trader-mcp](https://github.com/kukapay/uniswap-trader-mcp) - An MCP server for AI agents to automate token swaps on Uniswap DEX across multiple blockchains.
+- [kukapay/freqtrade-mcp](https://github.com/kukapay/freqtrade-mcp) - An MCP server that integrates with the Freqtrade cryptocurrency trading bot.
+- [kukapay/jupiter-mcp](https://github.com/kukapay/jupiter-mcp) - An MCP server for executing token swaps on the Solana blockchain using Jupiter's new Ultra API.
 - [kukapay/token-minter-mcp](https://github.com/kukapay/token-minter-mcp) - An MCP server providing tools for AI agents to mint ERC-20 tokens, supporting 21 blockchains.
 - [armorwallet/armor-crypto-mcp](https://github.com/armorwallet/armor-crypto-mcp) - The MCP server for interacting with Blockchain, Swaps, Strategic Planning and more.
 - [mektigboy/server-hyperliquid](https://github.com/mektigboy/server-hyperliquid) - An MCP server implementation that integrates the Hyperliquid SDK.
@@ -97,9 +99,12 @@ Trading MCP modules perform trading operations by integrating with both DEX and 
 
 DeFi MCP modules interact with DeFi protocols by abstracting their interfaces into standardized callable modules.
 
+- [kukapay/bridge-rates-mcp](https://github.com/kukapay/bridge-rates-mcp) - Delivering real-time cross-chain bridge rates and optimal transfer routes to onchain AI agents.
+- [kukapay/chainlink-feeds-mcp](https://github.com/kukapay/chainlink-feeds-mcp) -  Providing real-time access to Chainlink's decentralized on-chain price feeds.
+- [kukapay/defi-yields-mcp](https://github.com/kukapay/defi-yields-mcp) - An MCP server for AI agents to explore DeFi yield opportunities.
 - [kukapay/pancakeswap-poolspy-mcp](https://github.com/kukapay/pancakeswap-poolspy-mcp) - An MCP server that tracks newly created liquidity pools on Pancake Swap, providing real-time data for DeFi analysts, traders, and developers.
+- [kukapay/token-revoke-mcp](https://github.com/kukapay/token-revoke-mcp) - An MCP server for checking and revoking ERC-20 token allowances across multiple blockchains.
 - [kukapay/uniswap-poolspy-mcp](https://github.com/kukapay/uniswap-poolspy-mcp) - An MCP server that tracks newly created liquidity pools on Uniswap across nine blockchain networks.
-
 
 ### 📊 <a name="market-data"></a>Market Data
 
@@ -113,8 +118,18 @@ Market Data MCP modules retrieve real-time market data from on-chain and off-cha
 - [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server) - Fetches real-time cryptocurrency prices, market cap, and volume data from CoinMarketCap.
 - [badger3000/okx-mcp-server](https://github.com/badger3000/okx-mcp-server) - This project creates a Model Context Protocol (MCP) server that fetches real-time cryptocurrency data from the OKX exchange.
 - [crazyrabbitLTC/mcp-coingecko-server](https://github.com/crazyrabbitLTC/mcp-coingecko-server) - An Model Context Protocol (MCP) server and OpenAI function calling service for interacting with the CoinGecko Pro API.
+- [kukapay/blockbeats-mcp](https://github.com/kukapay/blockbeats-mcp) -  An MCP server that delivers blockchain news and in-depth articles from BlockBeats for AI agents.
+- [kukapay/cointelegraph-mcp](https://github.com/kukapay/cointelegraph-mcp) -  Providing real-time access to the latest news from Cointelegraph.
 - [kukapay/cryptopanic-mcp-server](https://github.com/kukapay/cryptopanic-mcp-server) - Provide the latest cryptocurrency news to AI agents, powered by CryptoPanic.
 - [kukapay/crypto-feargreed-mcp](https://github.com/kukapay/crypto-feargreed-mcp) - An MCP server that provides real-time and historical Crypto Fear & Greed Index data, powered by the Alternative.me.
+- [kukapay/crypto-indicators-mcp](https://github.com/kukapay/crypto-indicators-mcp) - An MCP server providing a range of cryptocurrency technical analysis indicators and strategie.
+- [kukapay/crypto-news-mcp](https://github.com/kukapay/crypto-news-mcp) - An MCP server that provides real-time cryptocurrency news sourced from NewsData for AI agents.
+- [kukapay/crypto-portfolio-mcp](https://github.com/kukapay/crypto-portfolio-mcp) - An MCP server for tracking and managing cryptocurrency portfolio allocations.
+- [kukapay/crypto-sentiment-mcp](https://github.com/kukapay/crypto-sentiment-mcp) - An MCP server that delivers cryptocurrency sentiment analysis to AI agents.
+- [kukapay/crypto-trending-mcp](https://github.com/kukapay/crypto-trending-mcp) - Tracking the latest trending tokens on CoinGecko.
+- [kukapay/crypto-whitepapers-mcp](https://github.com/kukapay/crypto-whitepapers-mcp) - Serving as a structured knowledge base of crypto whitepapers.
+- [kukapay/funding-rates-mcp](https://github.com/kukapay/funding-rates-mcp) - Providing real-time funding rate data across major crypto exchanges.
+- [kukapay/rug-check-mcp](https://github.com/kukapay/rug-check-mcp) - An MCP server that detects potential risks in Solana meme tokens.
 - [kukapay/whale-tracker-mcp](https://github.com/kukapay/whale-tracker-mcp) - An Model Context Protocol (MCP) server for tracking cryptocurrency whale transactions using the Whale Alert API.
 - [aaronjmars/web3-research-mcp](https://github.com/aaronjmars/web3-research-mcp/) - Deep Research for crypto - free & fully local.
 - [openSVM/dexscreener-mcp-server](https://github.com/openSVM/dexscreener-mcp-server) - An MCP server implementation for accessing the DexScreener API, providing real-time access to DEX pair data, token information, and market statistics across multiple blockchains.
@@ -132,4 +147,5 @@ Social MCP modules integrate with social platforms and protocols to enable ident
 - [hanweg/mcp-discord](https://github.com/hanweg/mcp-discord) - An Model Context Protocol (MCP) server that provides Discord integration capabilities to MCP clients like Claude Desktop.
 - [sparfenyuk/mcp-telegram](https://github.com/sparfenyuk/mcp-telegram) - The server is a bridge between the Telegram API and the AI assistants and is based on the Model Context Protocol.
 - [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) - Official Notion MCP Server.
+- [kukapay/twitter-username-changes-mcp](https://github.com/kukapay/twitter-username-changes-mcp) - An MCP server that tracks the historical changes of Twitter usernames.
 
