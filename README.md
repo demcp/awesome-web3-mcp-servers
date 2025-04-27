@@ -99,6 +99,7 @@ Trading MCP modules perform trading operations by integrating with both DEX and 
 
 DeFi MCP modules interact with DeFi protocols by abstracting their interfaces into standardized callable modules.
 
+- [demcp/defillama-mcp](https://github.com/demcp/defillama-mcp) - DeFiLlama MCP is a powerful and flexible tool that provides a microservice-based API wrapper around the DeFi Llama ecosystem.
 - [kukapay/bridge-rates-mcp](https://github.com/kukapay/bridge-rates-mcp) - Delivering real-time cross-chain bridge rates and optimal transfer routes to onchain AI agents.
 - [kukapay/chainlink-feeds-mcp](https://github.com/kukapay/chainlink-feeds-mcp) -  Providing real-time access to Chainlink's decentralized on-chain price feeds.
 - [kukapay/defi-yields-mcp](https://github.com/kukapay/defi-yields-mcp) - An MCP server for AI agents to explore DeFi yield opportunities.
