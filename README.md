@@ -99,6 +99,7 @@ Trading MCP modules perform trading operations by integrating with both DEX and 
 
 DeFi MCP modules interact with DeFi protocols by abstracting their interfaces into standardized callable modules.
 
+- [demcp/demcp-meson-mcp](https://github.com/demcp/demcp-meson-mcp) - A Meson cross-chain transaction MCP (Model Context Protocol) server implemented with Deno and TypeScript, helping users transfer assets conveniently between different blockchains.
 - [demcp/defillama-mcp](https://github.com/demcp/defillama-mcp) - DeFiLlama MCP is a powerful and flexible tool that provides a microservice-based API wrapper around the DeFi Llama ecosystem.
 - [kukapay/bridge-rates-mcp](https://github.com/kukapay/bridge-rates-mcp) - Delivering real-time cross-chain bridge rates and optimal transfer routes to onchain AI agents.
 - [kukapay/chainlink-feeds-mcp](https://github.com/kukapay/chainlink-feeds-mcp) -  Providing real-time access to Chainlink's decentralized on-chain price feeds.
@@ -145,7 +146,7 @@ Market Data MCP modules retrieve real-time market data from on-chain and off-cha
 Tool MCP modules offer auxiliary utilities for Web3, supporting smart contract interactions, data processing, monitoring, and automation across decentralized systems.
 
 - [solana-foundation/solana-dev-mcp](https://github.com/solana-foundation/solana-dev-mcp) - This repository demonstrates a simple implementation of a Model Context Protocol (MCP) server for Solana development.
-- [CohumanSpace/digimon-engine](https://github.com/CohumanSpace/digimon-engine) - Digimon Engine is an open-source gaming platform similar to Unreal Engine for AI gaming. It supports social and financial AI Agents, enabling immersive AI-native gameplay.
+- [CohumanSpace/digimon-engine](https://github.com/CohumanSpace/digimon-engine/tree/main/mcp) - Digimon Engine is an open-source gaming platform similar to Unreal Engine for AI gaming. It supports social and financial AI Agents, enabling immersive AI-native gameplay.
 
 
 ### 💬 <a name="social"></a>Social
