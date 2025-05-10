@@ -59,6 +59,7 @@ Chain-RPC MCP modules interact with multiple blockchains by abstracting their RP
 - [0xKoda/eth-mcp](https://github.com/0xKoda/eth-mcp) - An Model Context Protocol (MCP) server for interacting with Ethereum blockchain.
 - [AbdelStark/lightning-mcp](https://github.com/AbdelStark/lightning-mcp) - An Model Context Protocol (MCP) server that enables AI models to interact with Lightning Network, allowing them to pay invoices.
 - [marctheshark3/ergo-mcp](https://github.com/marctheshark3/ergo-mcp) - An Model Context Protocol (MCP) server for interacting with the Ergo blockchain.
+- [kukapay/blocknative-mcp](https://github.com/kukapay/blocknative-mcp) -  Providing real-time gas price predictions across multiple blockchains, powered by Blocknative.
 - [kukapay/thegraph-mcp](https://github.com/kukapay/thegraph-mcp) - An MCP server that powers AI agents with indexed blockchain data from The Graph.
 - [GoPlausible/algorand-mcp](https://github.com/GoPlausible/algorand-mcp) - Algorand Model Context Protocol (Server & Client).
 - [dcSpark/mcp-server-helius](https://github.com/dcSpark/mcp-server-helius) - an Model Context Protocol (MCP) server that provides Claude with access to Solana blockchain data via the Helius API.
@@ -83,6 +84,8 @@ Trading MCP modules perform trading operations by integrating with both DEX and 
 - [kukapay/uniswap-trader-mcp](https://github.com/kukapay/uniswap-trader-mcp) - An MCP server for AI agents to automate token swaps on Uniswap DEX across multiple blockchains.
 - [kukapay/freqtrade-mcp](https://github.com/kukapay/freqtrade-mcp) - An MCP server that integrates with the Freqtrade cryptocurrency trading bot.
 - [kukapay/jupiter-mcp](https://github.com/kukapay/jupiter-mcp) - An MCP server for executing token swaps on the Solana blockchain using Jupiter's new Ultra API.
+- [kukapay/pumpswap-mcp](https://github.com/kukapay/pumpswap-mcp) - Enabling AI agents to interact with PumpSwap for real-time token swaps and automated on-chain trading.
+- [kukapay/sui-trader-mcp](https://github.com/kukapay/sui-trader-mcp) - An MCP server designed for AI agents to perform optimal token swaps on the Sui blockchain.
 - [kukapay/token-minter-mcp](https://github.com/kukapay/token-minter-mcp) - An MCP server providing tools for AI agents to mint ERC-20 tokens, supporting 21 blockchains.
 - [armorwallet/armor-crypto-mcp](https://github.com/armorwallet/armor-crypto-mcp) - The MCP server for interacting with Blockchain, Swaps, Strategic Planning and more.
 - [mektigboy/server-hyperliquid](https://github.com/mektigboy/server-hyperliquid) - An MCP server implementation that integrates the Hyperliquid SDK.
@@ -109,6 +112,10 @@ Market Data MCP modules retrieve real-time market data from on-chain and off-cha
 - [truss44/mcp-crypto-price](https://github.com/truss44/mcp-crypto-price) - A Model Context Protocol (MCP) server that provides comprehensive cryptocurrency analysis using the CoinCap API.
 - [heurist-network/heurist-mesh-mcp-server](https://github.com/heurist-network/heurist-mesh-mcp-server) - An Model Context Protocol (MCP) server that connects to Heurist Mesh APIs, providing Claude with access to various blockchain and web3 tools.
 - [QuantGeekDev/coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp) - A coincap mcp server to access crypto data from coincap API.
+- [kukapay/crypto-liquidations-mcp](https://github.com/kukapay/crypto-liquidations-mcp) - Streams real-time cryptocurrency liquidation events from Binance.
+- [kukapay/crypto-orderbook-mcp](https://github.com/kukapay/crypto-orderbook-mcp) - Analyzing order book depth and imbalance across major crypto exchanges.
+- [kukapay/crypto-pegmon-mcp](https://github.com/kukapay/crypto-pegmon-mcp) -  Tracking stablecoin peg integrity across multiple blockchains.
+- [kukapay/crypto-projects-mcp](https://github.com/kukapay/crypto-projects-mcp) - Providing cryptocurrency project data from Mobula.io to AI agents.
 - [kukapay/dune-analytics-mcp](https://github.com/kukapay/dune-analytics-mcp) - An MCP server that bridges Dune Analytics data to AI agents.
 - [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server) - Fetches real-time cryptocurrency prices, market cap, and volume data from CoinMarketCap.
 - [badger3000/okx-mcp-server](https://github.com/badger3000/okx-mcp-server) - This project creates a Model Context Protocol (MCP) server that fetches real-time cryptocurrency data from the OKX exchange.
