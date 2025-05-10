@@ -40,6 +40,7 @@ DeMCP is the first decentralized MCP network and a core infrastructure between A
 * 💰 - [Trading](#trading)
 * 🔄 - [DeFi](#defi)
 * 📊 - [Market Data](#market-data)
+* 🛠️ - [Tool](#tool)
 * 💬 - [Social](#social)
 
 
@@ -52,7 +53,6 @@ Chain-RPC MCP modules interact with multiple blockchains by abstracting their RP
 - [goat-sdk/goat](https://github.com/goat-sdk/goat/tree/main/typescript/examples/by-framework/model-context-protocol) - It is implemented for both EVM (Base Sepolia) and Solana chains but can be updated to support any other chain, wallet and series of tools.
 - [mcpdotdirect/evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server) - A comprehensive Model Context Protocol (MCP) server that provides blockchain services across multiple EVM-compatible networks.
 - [strangelove-ventures/web3-mcp](https://github.com/strangelove-ventures/web3-mcp) - This server provides simple RPC endpoints for common blockchain operations, allowing secure interactions with various blockchains through environment variables.
-- [solana-foundation/solana-dev-mcp](https://github.com/solana-foundation/solana-dev-mcp) - This repository demonstrates a simple implementation of a Model Context Protocol (MCP) server for Solana development.
 - [Bankless/onchain-mcp](https://github.com/Bankless/onchain-mcp) - MCP (Model Context Protocol) server for blockchain data interaction through the Bankless API.
 - [AbdelStark/bitcoin-mcp](https://github.com/AbdelStark/bitcoin-mcp) - An Model Context Protocol (MCP) server that enables AI models to interact with Bitcoin and Lightning Network, allowing them to generate keys, validate addresses, decode transactions, query the blockchain, and more.
 - [crazyrabbitLTC/mcp-etherscan-server](https://github.com/crazyrabbitLTC/mcp-etherscan-server) - An MCP (Model Context Protocol) server that provides Ethereum blockchain data tools via Etherscan's API.
@@ -91,12 +91,19 @@ Trading MCP modules perform trading operations by integrating with both DEX and 
 - [mektigboy/server-hyperliquid](https://github.com/mektigboy/server-hyperliquid) - An MCP server implementation that integrates the Hyperliquid SDK.
 - [getalby/nwc-mcp-server](https://github.com/getalby/nwc-mcp-server) - Connect a bitcoin lightning wallet to your LLM using Nostr Wallet Connect (NWC or NIP-47).
 - [sammcj/bybit-mcp](https://github.com/sammcj/bybit-mcp) - An MCP server that provides read-only access to Bybit's cryptocurrency exchange API.
+- [b-open-io/bsv-mcp](https://github.com/b-open-io/bsv-mcp) - A collection of Bitcoin SV (BSV) tools for the Model Context Protocol (MCP) framework. This library provides wallet, ordinals, and utility functions for BSV blockchain interaction.
+- [doubledare704/aiowhitebit-mcp](https://github.com/doubledare704/aiowhitebit-mcp) - Message Control Protocol (MCP) server and client implementation for WhiteBit cryptocurrency exchange API. Built on top of aiowhitebit library and fastmcp.
+- [fere-ai/mcp-server](https://github.com/fere-ai/mcp-server) - A Model Conntext Protocol (MCP) server for interacting with the 0xMONK Trading Agent API.
+- [georgyturevich/kuru-mcp-server](https://github.com/georgyturevich/kuru-mcp-server) - This project implements a Model Context Protocol (MCP) server for accessing Kuru.io crypto exchange data, making it accessible to LLMs and AI assistants.
+- [solangii/upbit-mcp-server](https://github.com/solangii/upbit-mcp-server) - A server implementation for Upbit Cryptocurrency Exchange OpenAPI using the Model Context Protocol (MCP). This project provides tools to interact with Upbit exchange services, such as retrieving market data (quotes, orderbooks, trade history, chart data), account information, creating and canceling orders, managing deposits/withdrawals, and performing technical analysis.
 
 
 ### 🔄 <a name="defi"></a>DeFi
 
 DeFi MCP modules interact with DeFi protocols by abstracting their interfaces into standardized callable modules.
 
+- [demcp/demcp-meson-mcp](https://github.com/demcp/demcp-meson-mcp) - A Meson cross-chain transaction MCP (Model Context Protocol) server implemented with Deno and TypeScript, helping users transfer assets conveniently between different blockchains.
+- [demcp/defillama-mcp](https://github.com/demcp/defillama-mcp) - DeFiLlama MCP is a powerful and flexible tool that provides a microservice-based API wrapper around the DeFi Llama ecosystem.
 - [kukapay/bridge-rates-mcp](https://github.com/kukapay/bridge-rates-mcp) - Delivering real-time cross-chain bridge rates and optimal transfer routes to onchain AI agents.
 - [kukapay/chainlink-feeds-mcp](https://github.com/kukapay/chainlink-feeds-mcp) -  Providing real-time access to Chainlink's decentralized on-chain price feeds.
 - [kukapay/defi-yields-mcp](https://github.com/kukapay/defi-yields-mcp) - An MCP server for AI agents to explore DeFi yield opportunities.
@@ -137,6 +144,16 @@ Market Data MCP modules retrieve real-time market data from on-chain and off-cha
 - [openSVM/dexscreener-mcp-server](https://github.com/openSVM/dexscreener-mcp-server) - An MCP server implementation for accessing the DexScreener API, providing real-time access to DEX pair data, token information, and market statistics across multiple blockchains.
 - [pwh-pwh/coin-mcp-server](https://github.com/pwh-pwh/coin-mcp-server) - Use Bitget’s API to get cryptocurrency info.
 - [ahnlabio/bicscan-mcp](https://github.com/ahnlabio/bicscan-mcp) - A powerful and efficient Blockchain address risk scoring API MCP Server, leveraging the BICScan API to provide comprehensive risk assessments and asset information for blockchain addresses, domains, and decentralized applications (dApps).
+- [CoinStatsHQ/coinstats-mcp](https://github.com/CoinStatsHQ/coinstats-mcp) - MCP Server for the CoinStats API. Provides access to cryptocurrency market data, portfolio tracking, and news.
+- [tony-42069/solana-mcp](https://github.com/tony-42069/solana-mcp) - A comprehensive Solana MCP (Model Context Protocol) server for analyzing memecoins, tracking trends, and providing AI-powered insights using cultural analysis and on-chain data.
+
+
+### 🛠️ <a name="tool"></a>Tool
+
+Tool MCP modules offer auxiliary utilities for Web3, supporting smart contract interactions, data processing, monitoring, and automation across decentralized systems.
+
+- [solana-foundation/solana-dev-mcp](https://github.com/solana-foundation/solana-dev-mcp) - This repository demonstrates a simple implementation of a Model Context Protocol (MCP) server for Solana development.
+- [CohumanSpace/digimon-engine](https://github.com/CohumanSpace/digimon-engine/tree/main/mcp) - Digimon Engine is an open-source gaming platform similar to Unreal Engine for AI gaming. It supports social and financial AI Agents, enabling immersive AI-native gameplay.
 
 
 ### 💬 <a name="social"></a>Social
