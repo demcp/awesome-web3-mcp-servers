@@ -70,6 +70,7 @@ Chain-RPC MCP modules interact with multiple blockchains by abstracting their RP
 - [Codex-Data/codex-mcp](https://github.com/Codex-Data/codex-mcp) - An MCP server that provides enriched blockchain data from Codex. This server can be used with any MCP-compatible client like Claude Desktop.
 - [mcpdotdirect/starknet-mcp-server](https://github.com/mcpdotdirect/starknet-mcp-server) - A comprehensive Model Context Protocol (MCP) server for the Starknet blockchain. This server provides AI agents with the ability to interact with Starknet networks, query blockchain data, manage wallets, and interact with smart contracts.
 - [RomThpt/mcp-xrpl](https://github.com/RomThpt/mcp-xrpl) - A comprehensive Model Context Protocol (MCP) server that provides blockchain services for the XRP Ledger ecosystem.
+- [hawkli-1994/go-sui-mcp](https://github.com/hawkli-1994/go-sui-mcp) - A Go-based management control plane server for Sui blockchain, providing MCP (Management Control Plane) tools to interact with local Sui client commands. This project integrates with Cursor IDE for enhanced development experience.
 
 
 ### 💰 <a name="trading"></a>Trading
@@ -107,6 +108,8 @@ DeFi MCP modules interact with DeFi protocols by abstracting their interfaces in
 - [kukapay/pancakeswap-poolspy-mcp](https://github.com/kukapay/pancakeswap-poolspy-mcp) - An MCP server that tracks newly created liquidity pools on Pancake Swap, providing real-time data for DeFi analysts, traders, and developers.
 - [kukapay/token-revoke-mcp](https://github.com/kukapay/token-revoke-mcp) - An MCP server for checking and revoking ERC-20 token allowances across multiple blockchains.
 - [kukapay/uniswap-poolspy-mcp](https://github.com/kukapay/uniswap-poolspy-mcp) - An MCP server that tracks newly created liquidity pools on Uniswap across nine blockchain networks.
+- [assetCLI/assetCLI-init](https://github.com/assetCLI/assetCLI-init) - assetCLI - Goldman Sachs for AI Agents. Winner of the Solana MCP AI Agent Competition. Vibe coding bonding curves, DEX & DAOs
+
 
 ### 📊 <a name="market-data"></a>Market Data
 
@@ -139,6 +142,7 @@ Market Data MCP modules retrieve real-time market data from on-chain and off-cha
 - [ahnlabio/bicscan-mcp](https://github.com/ahnlabio/bicscan-mcp) - A powerful and efficient Blockchain address risk scoring API MCP Server, leveraging the BICScan API to provide comprehensive risk assessments and asset information for blockchain addresses, domains, and decentralized applications (dApps).
 - [CoinStatsHQ/coinstats-mcp](https://github.com/CoinStatsHQ/coinstats-mcp) - MCP Server for the CoinStats API. Provides access to cryptocurrency market data, portfolio tracking, and news.
 - [tony-42069/solana-mcp](https://github.com/tony-42069/solana-mcp) - A comprehensive Solana MCP (Model Context Protocol) server for analyzing memecoins, tracking trends, and providing AI-powered insights using cultural analysis and on-chain data.
+- [HubbleVision/hubble-ai-mcp](https://github.com/HubbleVision/hubble-ai-mcp) - Hubble is an AI-powered analytics tool that provides data analysis and visualization for Solana blockchain transactions with natural language queries.
 
 
 ### 🛠️ <a name="tool"></a>Tool
@@ -147,6 +151,7 @@ Tool MCP modules offer auxiliary utilities for Web3, supporting smart contract i
 
 - [solana-foundation/solana-dev-mcp](https://github.com/solana-foundation/solana-dev-mcp) - This repository demonstrates a simple implementation of a Model Context Protocol (MCP) server for Solana development.
 - [CohumanSpace/digimon-engine](https://github.com/CohumanSpace/digimon-engine/tree/main/mcp) - Digimon Engine is an open-source gaming platform similar to Unreal Engine for AI gaming. It supports social and financial AI Agents, enabling immersive AI-native gameplay.
+- [noditlabs/nodit-mcp-server](https://github.com/noditlabs/nodit-mcp-server) - A Model Context Protocol (MCP) server that connects AI agents and developers to structured, context-ready blockchain data across multiple networks through Nodit's Web3 infrastructure.
 
 
 ### 💬 <a name="social"></a>Social
