@@ -94,6 +94,7 @@ Trading MCP modules perform trading operations by integrating with both DEX and 
 - [fere-ai/mcp-server](https://github.com/fere-ai/mcp-server) - A Model Conntext Protocol (MCP) server for interacting with the 0xMONK Trading Agent API.
 - [georgyturevich/kuru-mcp-server](https://github.com/georgyturevich/kuru-mcp-server) - This project implements a Model Context Protocol (MCP) server for accessing Kuru.io crypto exchange data, making it accessible to LLMs and AI assistants.
 - [solangii/upbit-mcp-server](https://github.com/solangii/upbit-mcp-server) - A server implementation for Upbit Cryptocurrency Exchange OpenAPI using the Model Context Protocol (MCP). This project provides tools to interact with Upbit exchange services, such as retrieving market data (quotes, orderbooks, trade history, chart data), account information, creating and canceling orders, managing deposits/withdrawals, and performing technical analysis.
+- [collinsezedike/jupiter-mcp](https://github.com/collinsezedike/jupiter-mcp) - a TypeScript/Node.js MCP server that facilitates instant token swaps and limit orders seamlessly on Solana using Jupiter. It provides utilities for managing Solana token metadata, token balance checks, token lists, and wallet-based operations using environment-based configuration.
 
 
 ### 🔄 <a name="defi"></a>DeFi
