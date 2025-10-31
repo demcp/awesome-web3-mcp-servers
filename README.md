@@ -158,6 +158,7 @@ Market Data MCP modules retrieve real-time market data from on-chain and off-cha
 
 Tool MCP modules offer auxiliary utilities for Web3, supporting smart contract interactions, data processing, monitoring, and automation across decentralized systems.
 
+- [hajnalben/web3-tools-mcp](https://github.com/hajnalben/web3-tools-mcp) - A comprehensive blockchain interaction MCP server supporting 12+ chains (Ethereum, Arbitrum, Base, Polygon, Optimism, etc.) with browser wallet integration (MetaMask, Rabby). Features include smart contract interactions, ENS resolution, gas estimation, event queries with Hypersync acceleration, transaction tracing, and batch operations.
 - [solana-foundation/solana-dev-mcp](https://github.com/solana-foundation/solana-dev-mcp) - This repository demonstrates a simple implementation of a Model Context Protocol (MCP) server for Solana development.
 - [CohumanSpace/digimon-engine](https://github.com/CohumanSpace/digimon-engine/tree/main/mcp) - Digimon Engine is an open-source gaming platform similar to Unreal Engine for AI gaming. It supports social and financial AI Agents, enabling immersive AI-native gameplay.
 - [noditlabs/nodit-mcp-server](https://github.com/noditlabs/nodit-mcp-server) - A Model Context Protocol (MCP) server that connects AI agents and developers to structured, context-ready blockchain data across multiple networks through Nodit's Web3 infrastructure.
