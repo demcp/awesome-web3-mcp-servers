@@ -162,6 +162,7 @@ Tool MCP modules offer auxiliary utilities for Web3, supporting smart contract i
 - [CohumanSpace/digimon-engine](https://github.com/CohumanSpace/digimon-engine/tree/main/mcp) - Digimon Engine is an open-source gaming platform similar to Unreal Engine for AI gaming. It supports social and financial AI Agents, enabling immersive AI-native gameplay.
 - [noditlabs/nodit-mcp-server](https://github.com/noditlabs/nodit-mcp-server) - A Model Context Protocol (MCP) server that connects AI agents and developers to structured, context-ready blockchain data across multiple networks through Nodit's Web3 infrastructure.
 - [collinsezedike/metaplex-pnft-mcp](https://github.com/collinsezedike/metaplex-pnft-mcp/) - A TypeScript/Node.js Model Context Protocol (MCP) server that provides a structured and agent-friendly interface for the creation of programmable NFTs (pNFTs) using the Metaplex protocol on Solana.
+- [Tiida-Tech/chitin-contracts](https://github.com/Tiida-Tech/chitin-contracts) - MCP server for AI agent soul identity on Base L2. 6 tools: get_soul_profile, resolve_did, verify_cert, check_a2a_ready, register_soul, issue_cert. Published on npm as [chitin-mcp-server](https://www.npmjs.com/package/chitin-mcp-server).
 
 
 ### 💬 <a name="social"></a>Social
