@@ -106,6 +106,7 @@ DeFi MCP modules interact with DeFi protocols by abstracting their interfaces in
 
 - [demcp/demcp-meson-mcp](https://github.com/demcp/demcp-meson-mcp) - A Meson cross-chain transaction MCP (Model Context Protocol) server implemented with Deno and TypeScript, helping users transfer assets conveniently between different blockchains.
 - [demcp/defillama-mcp](https://github.com/demcp/defillama-mcp) - DeFiLlama MCP is a powerful and flexible tool that provides a microservice-based API wrapper around the DeFi Llama ecosystem.
+- [debridge-finance/debridge-mcp](https://github.com/debridge-finance/debridge-mcp) - Cross-chain swap routing, fee estimation, and non-custodial trade execution across Ethereum, Solana, Arbitrum, Base, BNB Chain, Polygon, Optimism, Avalanche, Linea, Berachain, Tron, Cronos, Gnosis, Monad, Sonic, Flow, HyperEVM, Sei, Story, Injective, Abstract, MegaETH, Mantle, Plasma, Zilliqa, Sophon, Bob, Neon, and others.
 - [kukapay/bridge-rates-mcp](https://github.com/kukapay/bridge-rates-mcp) - Delivering real-time cross-chain bridge rates and optimal transfer routes to onchain AI agents.
 - [kukapay/chainlink-feeds-mcp](https://github.com/kukapay/chainlink-feeds-mcp) -  Providing real-time access to Chainlink's decentralized on-chain price feeds.
 - [kukapay/defi-yields-mcp](https://github.com/kukapay/defi-yields-mcp) - An MCP server for AI agents to explore DeFi yield opportunities.
