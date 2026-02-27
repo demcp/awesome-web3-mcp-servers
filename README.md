@@ -114,6 +114,7 @@ DeFi MCP modules interact with DeFi protocols by abstracting their interfaces in
 - [kukapay/uniswap-poolspy-mcp](https://github.com/kukapay/uniswap-poolspy-mcp) - An MCP server that tracks newly created liquidity pools on Uniswap across nine blockchain networks.
 - [assetCLI/assetCLI-init](https://github.com/assetCLI/assetCLI-init) - assetCLI - Goldman Sachs for AI Agents. Winner of the Solana MCP AI Agent Competition. Vibe coding bonding curves, DEX & DAOs
 - [collinsezedike/wormhole-mcp](https://github.com/collinsezedike/wormhole-mcp) - A TypeScript/Node.js Model Context Protocol (MCP) server that enables automatic transfer of tokens across multiple blockchains using the Wormhole SDK.
+- [minhoyoo-iotrust/WAIaaS](https://github.com/minhoyoo-iotrust/WAIaaS) - Self-hosted wallet-as-a-service daemon for AI agents. Multi-chain (EVM + Solana), built-in DeFi (swap, bridge, staking, lending via Aave V3), 3-tier security with owner approval, and policy engine for spending limits. MCP server with 30+ tools.
 
 
 ### 📊 <a name="market-data"></a>Market Data
@@ -173,4 +174,3 @@ Social MCP modules integrate with social platforms and protocols to enable ident
 - [sparfenyuk/mcp-telegram](https://github.com/sparfenyuk/mcp-telegram) - The server is a bridge between the Telegram API and the AI assistants and is based on the Model Context Protocol.
 - [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) - Official Notion MCP Server.
 - [kukapay/twitter-username-changes-mcp](https://github.com/kukapay/twitter-username-changes-mcp) - An MCP server that tracks the historical changes of Twitter usernames.
-
