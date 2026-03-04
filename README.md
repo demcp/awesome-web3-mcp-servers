@@ -91,6 +91,7 @@ Trading MCP modules perform trading operations by integrating with both DEX and 
 - [armorwallet/armor-crypto-mcp](https://github.com/armorwallet/armor-crypto-mcp) - The MCP server for interacting with Blockchain, Swaps, Strategic Planning and more.
 - [mektigboy/server-hyperliquid](https://github.com/mektigboy/server-hyperliquid) - An MCP server implementation that integrates the Hyperliquid SDK.
 - [getalby/nwc-mcp-server](https://github.com/getalby/nwc-mcp-server) - Connect a bitcoin lightning wallet to your LLM using Nostr Wallet Connect (NWC or NIP-47).
+- [lightningfaucet/lightning-wallet-mcp](https://github.com/lightningfaucet/lightning-wallet-mcp) - Bitcoin Lightning wallet for AI agents with L402/X402 paid API support, invoice management, budget controls, and operator/agent hierarchy.
 - [sammcj/bybit-mcp](https://github.com/sammcj/bybit-mcp) - An MCP server that provides read-only access to Bybit's cryptocurrency exchange API.
 - [b-open-io/bsv-mcp](https://github.com/b-open-io/bsv-mcp) - A collection of Bitcoin SV (BSV) tools for the Model Context Protocol (MCP) framework. This library provides wallet, ordinals, and utility functions for BSV blockchain interaction.
 - [doubledare704/aiowhitebit-mcp](https://github.com/doubledare704/aiowhitebit-mcp) - Message Control Protocol (MCP) server and client implementation for WhiteBit cryptocurrency exchange API. Built on top of aiowhitebit library and fastmcp.
