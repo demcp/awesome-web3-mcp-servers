@@ -113,6 +113,7 @@ DeFi MCP modules interact with DeFi protocols by abstracting their interfaces in
 - [kukapay/token-revoke-mcp](https://github.com/kukapay/token-revoke-mcp) - An MCP server for checking and revoking ERC-20 token allowances across multiple blockchains.
 - [kukapay/uniswap-poolspy-mcp](https://github.com/kukapay/uniswap-poolspy-mcp) - An MCP server that tracks newly created liquidity pools on Uniswap across nine blockchain networks.
 - [assetCLI/assetCLI-init](https://github.com/assetCLI/assetCLI-init) - assetCLI - Goldman Sachs for AI Agents. Winner of the Solana MCP AI Agent Competition. Vibe coding bonding curves, DEX & DAOs
+- [azeth-protocol/mcp-server](https://github.com/azeth-protocol/mcp-server) - Trust infrastructure for the machine economy — non-custodial ERC-4337 smart accounts, x402 USDC payments, on-chain reputation via ERC-8004, and service discovery for AI agents on Base.
 - [collinsezedike/wormhole-mcp](https://github.com/collinsezedike/wormhole-mcp) - A TypeScript/Node.js Model Context Protocol (MCP) server that enables automatic transfer of tokens across multiple blockchains using the Wormhole SDK.
 
 
