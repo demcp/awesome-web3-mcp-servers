@@ -88,6 +88,7 @@ Trading MCP modules perform trading operations by integrating with both DEX and 
 - [kukapay/pumpswap-mcp](https://github.com/kukapay/pumpswap-mcp) - Enabling AI agents to interact with PumpSwap for real-time token swaps and automated on-chain trading.
 - [kukapay/sui-trader-mcp](https://github.com/kukapay/sui-trader-mcp) - An MCP server designed for AI agents to perform optimal token swaps on the Sui blockchain.
 - [kukapay/token-minter-mcp](https://github.com/kukapay/token-minter-mcp) - An MCP server providing tools for AI agents to mint ERC-20 tokens, supporting 21 blockchains.
+- [lordbasilaiassistant-sudo/obsd-launchpad](https://github.com/lordbasilaiassistant-sudo/thryxagi) - Deploy ERC-20 tokens for free on Base with a rising-floor bonding curve. AI agents can launch tokens, query stats, and track creator earnings. Every swap burns supply and raises the intrinsic value floor.
 - [armorwallet/armor-crypto-mcp](https://github.com/armorwallet/armor-crypto-mcp) - The MCP server for interacting with Blockchain, Swaps, Strategic Planning and more.
 - [mektigboy/server-hyperliquid](https://github.com/mektigboy/server-hyperliquid) - An MCP server implementation that integrates the Hyperliquid SDK.
 - [getalby/nwc-mcp-server](https://github.com/getalby/nwc-mcp-server) - Connect a bitcoin lightning wallet to your LLM using Nostr Wallet Connect (NWC or NIP-47).
