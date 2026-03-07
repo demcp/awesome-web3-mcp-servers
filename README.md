@@ -100,6 +100,8 @@ Trading MCP modules perform trading operations by integrating with both DEX and 
 - [collinsezedike/jupiter-mcp](https://github.com/collinsezedike/jupiter-mcp) - a TypeScript/Node.js MCP server that facilitates instant token swaps and limit orders seamlessly on Solana using Jupiter. It provides utilities for managing Solana token metadata, token balance checks, token lists, and wallet-based operations using environment-based configuration.
 
 
+- [lordbasilaiassistant-sudo/base-flash-arb-mcp](https://github.com/lordbasilaiassistant-sudo/base-flash-arb-mcp) - Arbitrage detection across DEXes on Base. 7 tools: scan pairs, detect price gaps, estimate profit, simulate flash loan routes, and monitor spreads.
+- [lordbasilaiassistant-sudo/base-multi-wallet-mcp](https://github.com/lordbasilaiassistant-sudo/base-multi-wallet-mcp) - Coordinated multi-wallet trading on Base. 8 tools: create wallets, distribute funds, execute synchronized buys/sells, and aggregate balances.
 ### 🔄 <a name="defi"></a>DeFi
 
 DeFi MCP modules interact with DeFi protocols by abstracting their interfaces into standardized callable modules.
@@ -116,6 +118,8 @@ DeFi MCP modules interact with DeFi protocols by abstracting their interfaces in
 - [collinsezedike/wormhole-mcp](https://github.com/collinsezedike/wormhole-mcp) - A TypeScript/Node.js Model Context Protocol (MCP) server that enables automatic transfer of tokens across multiple blockchains using the Wormhole SDK.
 
 
+- [lordbasilaiassistant-sudo/base-gasless-deploy-mcp](https://github.com/lordbasilaiassistant-sudo/base-gasless-deploy-mcp) - Gasless ERC-20 token deployment on Base using CDP Paymaster. 5 tools: deploy tokens, verify contracts, check status, and list deployments.
+- [lordbasilaiassistant-sudo/base-price-oracle-mcp](https://github.com/lordbasilaiassistant-sudo/base-price-oracle-mcp) - On-chain price feeds from Base DEX pools with no external APIs. 7 tools: spot prices, TWAP, liquidity depth, and price impact estimates.
 ### 📊 <a name="market-data"></a>Market Data
 
 Market Data MCP modules retrieve real-time market data from on-chain and off-chain sources via unified query interfaces.
@@ -174,3 +178,10 @@ Social MCP modules integrate with social platforms and protocols to enable ident
 - [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) - Official Notion MCP Server.
 - [kukapay/twitter-username-changes-mcp](https://github.com/kukapay/twitter-username-changes-mcp) - An MCP server that tracks the historical changes of Twitter usernames.
 
+
+
+### 🔒 <a name="security"></a>Security
+
+Security MCP modules audit and analyze smart contracts for vulnerabilities, rug patterns, and on-chain risks.
+
+- [lordbasilaiassistant-sudo/base-security-scanner-mcp](https://github.com/lordbasilaiassistant-sudo/base-security-scanner-mcp) - Smart contract security scanner for Base. 8 tools: detect honeypots, rug pull patterns, hidden mints, proxy dangers, bytecode analysis, permission checks, and generate audit reports.
