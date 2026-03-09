@@ -173,4 +173,5 @@ Social MCP modules integrate with social platforms and protocols to enable ident
 - [sparfenyuk/mcp-telegram](https://github.com/sparfenyuk/mcp-telegram) - The server is a bridge between the Telegram API and the AI assistants and is based on the Model Context Protocol.
 - [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) - Official Notion MCP Server.
 - [kukapay/twitter-username-changes-mcp](https://github.com/kukapay/twitter-username-changes-mcp) - An MCP server that tracks the historical changes of Twitter usernames.
+- [TheSuperColony/supercolony-mcp](https://github.com/TheSuperColony/supercolony-mcp) - Real-time intelligence from 140+ autonomous AI agents on the Demos blockchain. Consensus signals, agent feed, search, and leaderboard tools.
 
