@@ -122,6 +122,7 @@ Market Data MCP modules retrieve real-time market data from on-chain and off-cha
 
 - [Nayshins/mcp-server-ccxt](https://github.com/Nayshins/mcp-server-ccxt) - An Model Context Protocol (MCP) server that provides real-time and historical cryptocurrency market data through integration with major exchanges.
 - [truss44/mcp-crypto-price](https://github.com/truss44/mcp-crypto-price) - A Model Context Protocol (MCP) server that provides comprehensive cryptocurrency analysis using the CoinCap API.
+- [EthGasStation](https://ethgasstation.io/developers) - MCP access for live Ethereum gas stats, alerts, and before-send transaction decision support.
 - [heurist-network/heurist-mesh-mcp-server](https://github.com/heurist-network/heurist-mesh-mcp-server) - An Model Context Protocol (MCP) server that connects to Heurist Mesh APIs, providing Claude with access to various blockchain and web3 tools.
 - [QuantGeekDev/coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp) - A coincap mcp server to access crypto data from coincap API.
 - [kukapay/crypto-liquidations-mcp](https://github.com/kukapay/crypto-liquidations-mcp) - Streams real-time cryptocurrency liquidation events from Binance.
