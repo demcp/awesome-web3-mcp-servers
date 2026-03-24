@@ -49,6 +49,7 @@ DeMCP is the first decentralized MCP network and a core infrastructure between A
 Chain-RPC MCP modules interact with multiple blockchains by abstracting their RPC layers into unified callable interfaces.
 
 - [base/base-mcp](https://github.com/base/base-mcp) - This MCP server extends any MCP client's capabilities by providing tools to do anything on Base.
+- [claw-army/claude-node](https://github.com/claw-army/claude-node) - Python subprocess bridge for Claude Code CLI, enabling Python code direct access to Claude Code capabilities via stream-json.
 - [TermiX-official/bsc-mcp](https://github.com/TermiX-official/bsc-mcp) - A plug-and-play MCP tool server to send BNB, transfer BEP-20 tokens, deploy tokens, and interact with smart contracts on the Binance Smart Chain (BSC) — built for Claude Desktop, AI agents, and developers.
 - [goat-sdk/goat](https://github.com/goat-sdk/goat/tree/main/typescript/examples/by-framework/model-context-protocol) - It is implemented for both EVM (Base Sepolia) and Solana chains but can be updated to support any other chain, wallet and series of tools.
 - [mcpdotdirect/evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server) - A comprehensive Model Context Protocol (MCP) server that provides blockchain services across multiple EVM-compatible networks.
