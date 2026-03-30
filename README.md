@@ -163,6 +163,8 @@ Tool MCP modules offer auxiliary utilities for Web3, supporting smart contract i
 - [noditlabs/nodit-mcp-server](https://github.com/noditlabs/nodit-mcp-server) - A Model Context Protocol (MCP) server that connects AI agents and developers to structured, context-ready blockchain data across multiple networks through Nodit's Web3 infrastructure.
 - [collinsezedike/metaplex-pnft-mcp](https://github.com/collinsezedike/metaplex-pnft-mcp/) - A TypeScript/Node.js Model Context Protocol (MCP) server that provides a structured and agent-friendly interface for the creation of programmable NFTs (pNFTs) using the Metaplex protocol on Solana.
 
+- [SolTwizzy/swarms-x402](https://github.com/SolTwizzy/swarms-x402) - Multi-agent AI orchestration with native x402 micropayments on Solana. 49 x402-gated endpoints, 39 MCP tools for agent-to-agent discovery, dual LLM (Gemini + OpenAI), knowledge/RAG with pgvector. Contract audits, token diligence, DeFi risk rating, deep research, and real-time Solana data. ElizaOS v2 plugin. ([Live](https://swarmx.io)) ([MCP Manifest](https://swarmx.io/mcp-manifest.json))
+
 
 ### 💬 <a name="social"></a>Social
 
