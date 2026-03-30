@@ -130,6 +130,8 @@ Market Data MCP modules retrieve real-time market data from on-chain and off-cha
 - [kukapay/crypto-projects-mcp](https://github.com/kukapay/crypto-projects-mcp) - Providing cryptocurrency project data from Mobula.io to AI agents.
 - [kukapay/dune-analytics-mcp](https://github.com/kukapay/dune-analytics-mcp) - An MCP server that bridges Dune Analytics data to AI agents.
 - [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server) - Fetches real-time cryptocurrency prices, market cap, and volume data from CoinMarketCap.
+- [coinpaprika/coinpaprika-mcp](https://github.com/coinpaprika/coinpaprika-mcp) - Crypto market data for 12,000+ coins and 350+ exchanges. Tickers, OHLCV, historical prices, contract lookups. Free, no API key. Hosted MCP at mcp.coinpaprika.com.
+- [coinpaprika/dexpaprika-mcp](https://github.com/coinpaprika/dexpaprika-mcp) - Real-time DEX data across 34 blockchains. 30M+ pools, 27M+ tokens, OHLCV, trades, search. Free, no API key. Hosted MCP at mcp.dexpaprika.com.
 - [badger3000/okx-mcp-server](https://github.com/badger3000/okx-mcp-server) - This project creates a Model Context Protocol (MCP) server that fetches real-time cryptocurrency data from the OKX exchange.
 - [crazyrabbitLTC/mcp-coingecko-server](https://github.com/crazyrabbitLTC/mcp-coingecko-server) - An Model Context Protocol (MCP) server and OpenAI function calling service for interacting with the CoinGecko Pro API.
 - [kukapay/blockbeats-mcp](https://github.com/kukapay/blockbeats-mcp) -  An MCP server that delivers blockchain news and in-depth articles from BlockBeats for AI agents.
