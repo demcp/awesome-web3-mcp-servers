@@ -40,6 +40,7 @@ DeMCP is the first decentralized MCP network and a core infrastructure between A
 * 💰 - [Trading](#trading)
 * 🔄 - [DeFi](#defi)
 * 📊 - [Market Data](#market-data)
+* 🛡️ - [Security / Audit](#security--audit)
 * 🛠️ - [Tool](#tool)
 * 💬 - [Social](#social)
 
@@ -152,6 +153,13 @@ Market Data MCP modules retrieve real-time market data from on-chain and off-cha
 - [CoinStatsHQ/coinstats-mcp](https://github.com/CoinStatsHQ/coinstats-mcp) - MCP Server for the CoinStats API. Provides access to cryptocurrency market data, portfolio tracking, and news.
 - [tony-42069/solana-mcp](https://github.com/tony-42069/solana-mcp) - A comprehensive Solana MCP (Model Context Protocol) server for analyzing memecoins, tracking trends, and providing AI-powered insights using cultural analysis and on-chain data.
 - [HubbleVision/hubble-ai-mcp](https://github.com/HubbleVision/hubble-ai-mcp) - Hubble is an AI-powered analytics tool that provides data analysis and visualization for Solana blockchain transactions with natural language queries.
+
+
+### 🛡️ <a name="security--audit"></a>Security / Audit
+
+Security and audit MCP modules expose smart-contract risk intelligence, triage, and monitoring for agents and developers — often with on-chain or micropayment settlement.
+
+- [Hobie1Kenobi/agentic-crypto-swarm-prototype](https://github.com/Hobie1Kenobi/agentic-crypto-swarm-prototype) - **Agentic Swarm Marketplace MCP** — OpenAPI-driven **T54 x402** tools (XRPL), **Base USDC** routes for contract triage, full audit, and monitoring subscriptions; **HTTP 402** + `x402_broker_client`; **Smithery** + streamable HTTP. [Website](https://www.agentic-swarm-marketplace.com/) · [MCP (streamable HTTP)](https://api.agentic-swarm-marketplace.com/mcp) · [Integration](https://www.agentic-swarm-marketplace.com/mcp-integration.md)
 
 
 ### 🛠️ <a name="tool"></a>Tool
