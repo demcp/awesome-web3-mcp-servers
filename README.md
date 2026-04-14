@@ -150,6 +150,7 @@ Market Data MCP modules retrieve real-time market data from on-chain and off-cha
 - [pwh-pwh/coin-mcp-server](https://github.com/pwh-pwh/coin-mcp-server) - Use Bitget’s API to get cryptocurrency info.
 - [ahnlabio/bicscan-mcp](https://github.com/ahnlabio/bicscan-mcp) - A powerful and efficient Blockchain address risk scoring API MCP Server, leveraging the BICScan API to provide comprehensive risk assessments and asset information for blockchain addresses, domains, and decentralized applications (dApps).
 - [CoinStatsHQ/coinstats-mcp](https://github.com/CoinStatsHQ/coinstats-mcp) - MCP Server for the CoinStats API. Provides access to cryptocurrency market data, portfolio tracking, and news.
+- [connerlambden/helium-mcp](https://github.com/connerlambden/helium-mcp) - Live crypto market data (BTC, ETH, SOL, and more) with AI bull/bear cases, price forecasts, and probability-weighted scenarios; real-time crypto news with bias scoring across 5,000+ sources. Use the streamable HTTP MCP server at https://heliumtrades.com/mcp or run from source.
 - [tony-42069/solana-mcp](https://github.com/tony-42069/solana-mcp) - A comprehensive Solana MCP (Model Context Protocol) server for analyzing memecoins, tracking trends, and providing AI-powered insights using cultural analysis and on-chain data.
 - [HubbleVision/hubble-ai-mcp](https://github.com/HubbleVision/hubble-ai-mcp) - Hubble is an AI-powered analytics tool that provides data analysis and visualization for Solana blockchain transactions with natural language queries.
 
