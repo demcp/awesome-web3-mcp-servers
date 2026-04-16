@@ -57,6 +57,7 @@ Chain-RPC MCP modules interact with multiple blockchains by abstracting their RP
 - [AbdelStark/bitcoin-mcp](https://github.com/AbdelStark/bitcoin-mcp) - An Model Context Protocol (MCP) server that enables AI models to interact with Bitcoin and Lightning Network, allowing them to generate keys, validate addresses, decode transactions, query the blockchain, and more.
 - [crazyrabbitLTC/mcp-etherscan-server](https://github.com/crazyrabbitLTC/mcp-etherscan-server) - An MCP (Model Context Protocol) server that provides Ethereum blockchain data tools via Etherscan's API.
 - [0xKoda/eth-mcp](https://github.com/0xKoda/eth-mcp) - An Model Context Protocol (MCP) server for interacting with Ethereum blockchain.
+- [Scottcjn/rustchain-mcp](https://github.com/Scottcjn/rustchain-mcp) - MCP server for RustChain blockchain with PoA consensus. Tools for health, balance, epoch, attestation, bounties. Install: `pip install rustchain-mcp`
 - [AbdelStark/lightning-mcp](https://github.com/AbdelStark/lightning-mcp) - An Model Context Protocol (MCP) server that enables AI models to interact with Lightning Network, allowing them to pay invoices.
 - [marctheshark3/ergo-mcp](https://github.com/marctheshark3/ergo-mcp) - An Model Context Protocol (MCP) server for interacting with the Ergo blockchain.
 - [kukapay/blocknative-mcp](https://github.com/kukapay/blocknative-mcp) -  Providing real-time gas price predictions across multiple blockchains, powered by Blocknative.
