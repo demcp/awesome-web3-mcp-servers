@@ -162,6 +162,7 @@ Tool MCP modules offer auxiliary utilities for Web3, supporting smart contract i
 - [CohumanSpace/digimon-engine](https://github.com/CohumanSpace/digimon-engine/tree/main/mcp) - Digimon Engine is an open-source gaming platform similar to Unreal Engine for AI gaming. It supports social and financial AI Agents, enabling immersive AI-native gameplay.
 - [noditlabs/nodit-mcp-server](https://github.com/noditlabs/nodit-mcp-server) - A Model Context Protocol (MCP) server that connects AI agents and developers to structured, context-ready blockchain data across multiple networks through Nodit's Web3 infrastructure.
 - [collinsezedike/metaplex-pnft-mcp](https://github.com/collinsezedike/metaplex-pnft-mcp/) - A TypeScript/Node.js Model Context Protocol (MCP) server that provides a structured and agent-friendly interface for the creation of programmable NFTs (pNFTs) using the Metaplex protocol on Solana.
+- [chopmob-cloud/AlgoVoi-Platform-Adapters](https://github.com/chopmob-cloud/AlgoVoi-Platform-Adapters) - Multi-chain, multi-protocol payment gateway MCP. Creates hosted USDC checkouts and verifies on-chain payments across 7 chains (Algorand, VOI, Hedera, Stellar, Base, Solana, Tempo) from any MCP client. Supports Coinbase x402, IETF MPP, and Google AP2 on a single endpoint. Solana flow uses Solana Pay `reference` pubkey binding for cryptographic tx↔order correlation.
 
 
 ### 💬 <a name="social"></a>Social
