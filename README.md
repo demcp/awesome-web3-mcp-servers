@@ -174,3 +174,6 @@ Social MCP modules integrate with social platforms and protocols to enable ident
 - [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) - Official Notion MCP Server.
 - [kukapay/twitter-username-changes-mcp](https://github.com/kukapay/twitter-username-changes-mcp) - An MCP server that tracks the historical changes of Twitter usernames.
 
+## DeFi
+
+- [EventTrader MCP](https://cymetica.com/.well-known/mcp.json) - AI prediction markets MCP server. Provides market data, predictions, and trading capabilities for AI agents on Base L2. ([A2A Card](https://cymetica.com/.well-known/agent-card.json))
