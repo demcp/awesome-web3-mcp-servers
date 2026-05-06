@@ -55,6 +55,7 @@ Chain-RPC MCP modules interact with multiple blockchains by abstracting their RP
 - [strangelove-ventures/web3-mcp](https://github.com/strangelove-ventures/web3-mcp) - This server provides simple RPC endpoints for common blockchain operations, allowing secure interactions with various blockchains through environment variables.
 - [Bankless/onchain-mcp](https://github.com/Bankless/onchain-mcp) - MCP (Model Context Protocol) server for blockchain data interaction through the Bankless API.
 - [AbdelStark/bitcoin-mcp](https://github.com/AbdelStark/bitcoin-mcp) - An Model Context Protocol (MCP) server that enables AI models to interact with Bitcoin and Lightning Network, allowing them to generate keys, validate addresses, decode transactions, query the blockchain, and more.
+- [Bortlesboat/bitcoin-mcp](https://github.com/Bortlesboat/bitcoin-mcp) - A Bitcoin MCP server with 49 tools for fees, mempool, blocks, transactions, mining, market context, and Satoshi API fallback when no local Bitcoin node is available.
 - [crazyrabbitLTC/mcp-etherscan-server](https://github.com/crazyrabbitLTC/mcp-etherscan-server) - An MCP (Model Context Protocol) server that provides Ethereum blockchain data tools via Etherscan's API.
 - [0xKoda/eth-mcp](https://github.com/0xKoda/eth-mcp) - An Model Context Protocol (MCP) server for interacting with Ethereum blockchain.
 - [AbdelStark/lightning-mcp](https://github.com/AbdelStark/lightning-mcp) - An Model Context Protocol (MCP) server that enables AI models to interact with Lightning Network, allowing them to pay invoices.
