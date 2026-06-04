@@ -121,6 +121,7 @@ DeFi MCP modules interact with DeFi protocols by abstracting their interfaces in
 Market Data MCP modules retrieve real-time market data from on-chain and off-chain sources via unified query interfaces.
 
 - [Nayshins/mcp-server-ccxt](https://github.com/Nayshins/mcp-server-ccxt) - An Model Context Protocol (MCP) server that provides real-time and historical cryptocurrency market data through integration with major exchanges.
+- [Sharpe MCP Server](https://www.sharpe.ai/docs/mcp-server) - Sharpe Terminal MCP for crypto derivatives and market intelligence, including funding rates, futures/options analytics, arbitrage, narratives, exchange listings, news, and token-risk checks. Install with `uvx sharpe-mcp`.
 - [truss44/mcp-crypto-price](https://github.com/truss44/mcp-crypto-price) - A Model Context Protocol (MCP) server that provides comprehensive cryptocurrency analysis using the CoinCap API.
 - [heurist-network/heurist-mesh-mcp-server](https://github.com/heurist-network/heurist-mesh-mcp-server) - An Model Context Protocol (MCP) server that connects to Heurist Mesh APIs, providing Claude with access to various blockchain and web3 tools.
 - [QuantGeekDev/coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp) - A coincap mcp server to access crypto data from coincap API.
@@ -173,4 +174,3 @@ Social MCP modules integrate with social platforms and protocols to enable ident
 - [sparfenyuk/mcp-telegram](https://github.com/sparfenyuk/mcp-telegram) - The server is a bridge between the Telegram API and the AI assistants and is based on the Model Context Protocol.
 - [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) - Official Notion MCP Server.
 - [kukapay/twitter-username-changes-mcp](https://github.com/kukapay/twitter-username-changes-mcp) - An MCP server that tracks the historical changes of Twitter usernames.
-
