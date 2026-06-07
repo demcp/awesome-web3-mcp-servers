@@ -98,6 +98,7 @@ Trading MCP modules perform trading operations by integrating with both DEX and 
 - [georgyturevich/kuru-mcp-server](https://github.com/georgyturevich/kuru-mcp-server) - This project implements a Model Context Protocol (MCP) server for accessing Kuru.io crypto exchange data, making it accessible to LLMs and AI assistants.
 - [solangii/upbit-mcp-server](https://github.com/solangii/upbit-mcp-server) - A server implementation for Upbit Cryptocurrency Exchange OpenAPI using the Model Context Protocol (MCP). This project provides tools to interact with Upbit exchange services, such as retrieving market data (quotes, orderbooks, trade history, chart data), account information, creating and canceling orders, managing deposits/withdrawals, and performing technical analysis.
 - [collinsezedike/jupiter-mcp](https://github.com/collinsezedike/jupiter-mcp) - a TypeScript/Node.js MCP server that facilitates instant token swaps and limit orders seamlessly on Solana using Jupiter. It provides utilities for managing Solana token metadata, token balance checks, token lists, and wallet-based operations using environment-based configuration.
+- **[signer-mcp](https://github.com/namixai/signer-mcp)** - Keyless CEX/DEX signing for AI trading agents (Binance, OKX, Bybit, KuCoin, Hyperliquid, Asterdex). Signing keys never leave an AWS Nitro Enclave (attested PCR0); agents get policy-bounded signatures, not credentials. Built to survive prompt injection and supply-chain key leaks.
 
 
 ### 🔄 <a name="defi"></a>DeFi
