@@ -154,6 +154,8 @@ Market Data MCP modules retrieve real-time market data from on-chain and off-cha
 - [HubbleVision/hubble-ai-mcp](https://github.com/HubbleVision/hubble-ai-mcp) - Hubble is an AI-powered analytics tool that provides data analysis and visualization for Solana blockchain transactions with natural language queries.
 
 
+- [thebrierfox/the-stall](https://github.com/thebrierfox/the-stall) - A remote x402 pay-per-call MCP capability chassis with 172 tools: DeFi yields, DEX quotes, crypto fear/greed, whale tracking, on-chain wallet analysis, Solana tx decoding, EVM token security, options chains, macro indicators. USDC on Base mainnet — no API key, no registration.
+
 ### 🛠️ <a name="tool"></a>Tool
 
 Tool MCP modules offer auxiliary utilities for Web3, supporting smart contract interactions, data processing, monitoring, and automation across decentralized systems.
