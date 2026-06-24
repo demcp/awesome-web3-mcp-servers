@@ -174,3 +174,7 @@ Social MCP modules integrate with social platforms and protocols to enable ident
 - [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) - Official Notion MCP Server.
 - [kukapay/twitter-username-changes-mcp](https://github.com/kukapay/twitter-username-changes-mcp) - An MCP server that tracks the historical changes of Twitter usernames.
 
+
+
+## Web3 & Security
+- [MetaVision CVE Oracle & DeFi Signals](https://metavision.click/mcp) - Web3 security scanning (355k+ NVD CVEs), live DeFi arbitrage signals (Uniswap V3 vs Aerodrome on Base), wallet fraud detection. x402 v2 micropayments. ([Agent Card](https://metavision.click/.well-known/agent.json))
