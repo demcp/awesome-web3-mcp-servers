@@ -104,6 +104,7 @@ Trading MCP modules perform trading operations by integrating with both DEX and 
 
 DeFi MCP modules interact with DeFi protocols by abstracting their interfaces into standardized callable modules.
 
+- [dayprotocol/mcp](https://github.com/dayprotocol/day) - DAY GUIDE MCP server for agent-native non-custodial yield routing (discover venues, plans, Auto Pay). Wallet-only identity; Streamable HTTP. Site: https://dayprotocol.com · Docs: https://docs.dayprotocol.com
 - [demcp/demcp-meson-mcp](https://github.com/demcp/demcp-meson-mcp) - A Meson cross-chain transaction MCP (Model Context Protocol) server implemented with Deno and TypeScript, helping users transfer assets conveniently between different blockchains.
 - [demcp/defillama-mcp](https://github.com/demcp/defillama-mcp) - DeFiLlama MCP is a powerful and flexible tool that provides a microservice-based API wrapper around the DeFi Llama ecosystem.
 - [kukapay/bridge-rates-mcp](https://github.com/kukapay/bridge-rates-mcp) - Delivering real-time cross-chain bridge rates and optimal transfer routes to onchain AI agents.
@@ -114,7 +115,6 @@ DeFi MCP modules interact with DeFi protocols by abstracting their interfaces in
 - [kukapay/uniswap-poolspy-mcp](https://github.com/kukapay/uniswap-poolspy-mcp) - An MCP server that tracks newly created liquidity pools on Uniswap across nine blockchain networks.
 - [assetCLI/assetCLI-init](https://github.com/assetCLI/assetCLI-init) - assetCLI - Goldman Sachs for AI Agents. Winner of the Solana MCP AI Agent Competition. Vibe coding bonding curves, DEX & DAOs
 - [collinsezedike/wormhole-mcp](https://github.com/collinsezedike/wormhole-mcp) - A TypeScript/Node.js Model Context Protocol (MCP) server that enables automatic transfer of tokens across multiple blockchains using the Wormhole SDK.
-
 
 ### 📊 <a name="market-data"></a>Market Data
 
