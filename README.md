@@ -15,6 +15,7 @@ A curated list of awesome Web3 Model Context Protocol (MCP) servers.
 
 ## Tutorials
 
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI pentest platform and MCP host, covering web, API, Active Directory and Kubernetes, with proof of exploitation.
 * [Get started with the MCP (Official Introduction)](https://modelcontextprotocol.io/introduction)
 * [What's New?  (Official Updates)](https://modelcontextprotocol.io/development/updates)
 * [Development plans for MCP (Official Roadmap)](https://modelcontextprotocol.io/development/roadmap)
