@@ -150,7 +150,6 @@ Market Data MCP modules retrieve real-time market data from on-chain and off-cha
 - [pwh-pwh/coin-mcp-server](https://github.com/pwh-pwh/coin-mcp-server) - Use Bitget’s API to get cryptocurrency info.
 - [ahnlabio/bicscan-mcp](https://github.com/ahnlabio/bicscan-mcp) - A powerful and efficient Blockchain address risk scoring API MCP Server, leveraging the BICScan API to provide comprehensive risk assessments and asset information for blockchain addresses, domains, and decentralized applications (dApps).
 - [CoinStatsHQ/coinstats-mcp](https://github.com/CoinStatsHQ/coinstats-mcp) - MCP Server for the CoinStats API. Provides access to cryptocurrency market data, portfolio tracking, and news.
-- [stipend-sh/stipend](https://github.com/stipend-sh/stipend) - A non-custodial USDC wallet on Base for AI agents, exposed as a local stdio MCP server with seven tools. Per-transaction, per-day and per-counterparty spending limits plus a destination allowlist are enforced in code between the decision and the signature, and cover buyer-side x402 auto-payments as well.
 - [tony-42069/solana-mcp](https://github.com/tony-42069/solana-mcp) - A comprehensive Solana MCP (Model Context Protocol) server for analyzing memecoins, tracking trends, and providing AI-powered insights using cultural analysis and on-chain data.
 - [HubbleVision/hubble-ai-mcp](https://github.com/HubbleVision/hubble-ai-mcp) - Hubble is an AI-powered analytics tool that provides data analysis and visualization for Solana blockchain transactions with natural language queries.
 
@@ -163,6 +162,7 @@ Tool MCP modules offer auxiliary utilities for Web3, supporting smart contract i
 - [CohumanSpace/digimon-engine](https://github.com/CohumanSpace/digimon-engine/tree/main/mcp) - Digimon Engine is an open-source gaming platform similar to Unreal Engine for AI gaming. It supports social and financial AI Agents, enabling immersive AI-native gameplay.
 - [noditlabs/nodit-mcp-server](https://github.com/noditlabs/nodit-mcp-server) - A Model Context Protocol (MCP) server that connects AI agents and developers to structured, context-ready blockchain data across multiple networks through Nodit's Web3 infrastructure.
 - [collinsezedike/metaplex-pnft-mcp](https://github.com/collinsezedike/metaplex-pnft-mcp/) - A TypeScript/Node.js Model Context Protocol (MCP) server that provides a structured and agent-friendly interface for the creation of programmable NFTs (pNFTs) using the Metaplex protocol on Solana.
+- [stipend-sh/stipend](https://github.com/stipend-sh/stipend) - A non-custodial USDC wallet on Base for AI agents, exposed as a local stdio MCP server with seven tools. Per-transaction, per-day and per-counterparty spending limits plus a destination allowlist are enforced in code between the decision and the signature, and cover buyer-side x402 auto-payments as well.
 
 
 ### 💬 <a name="social"></a>Social
