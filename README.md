@@ -36,6 +36,8 @@ DeMCP is the first decentralized MCP network and a core infrastructure between A
 
 ## Web3 MCP Categories
 
+- [Clickyy](https://github.com/jayamitkatariya/clickyyy) - Shake your cursor to summon an AI agent that sees your screen and clicks, types, drags, and acts for you on macOS. Open-source, MIT.
+
 * 🔗 - [Chain-RPC](#chain-rpc)
 * 💰 - [Trading](#trading)
 * 🔄 - [DeFi](#defi)
