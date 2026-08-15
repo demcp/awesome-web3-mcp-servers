@@ -9,6 +9,7 @@ A curated list of awesome Web3 Model Context Protocol (MCP) servers.
 ## What is MCP?
 
 [MCP](https://modelcontextprotocol.io/) is an open protocol that standardizes how applications provide context to LLMs. Think of MCP like a USB-C port for AI applications. Just as USB-C provides a standardized way to connect your devices to various peripherals and accessories, MCP provides a standardized way to connect AI models to different data sources and tools.
+[Xquik](https://github.com/Xquik-dev/x-twitter-scraper)
 
 ![](https://github.com/demcp/awesome-web3-mcp-servers/blob/main/IMG/image1.jpg)
 
@@ -48,7 +49,7 @@ DeMCP is the first decentralized MCP network and a core infrastructure between A
 
 Chain-RPC MCP modules interact with multiple blockchains by abstracting their RPC layers into unified callable interfaces.
 
-- [base/base-mcp](https://github.com/base/base-mcp) - This MCP server extends any MCP client's capabilities by providing tools to do anything on Base.
+- [base/base-mcp](https://github.com/base/base-mcp-legacy) - This MCP server extends any MCP client's capabilities by providing tools to do anything on Base.
 - [TermiX-official/bsc-mcp](https://github.com/TermiX-official/bsc-mcp) - A plug-and-play MCP tool server to send BNB, transfer BEP-20 tokens, deploy tokens, and interact with smart contracts on the Binance Smart Chain (BSC) — built for Claude Desktop, AI agents, and developers.
 - [goat-sdk/goat](https://github.com/goat-sdk/goat/tree/main/typescript/examples/by-framework/model-context-protocol) - It is implemented for both EVM (Base Sepolia) and Solana chains but can be updated to support any other chain, wallet and series of tools.
 - [mcpdotdirect/evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server) - A comprehensive Model Context Protocol (MCP) server that provides blockchain services across multiple EVM-compatible networks.
