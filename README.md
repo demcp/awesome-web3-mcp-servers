@@ -72,6 +72,7 @@ Chain-RPC MCP modules interact with multiple blockchains by abstracting their RP
 - [mcpdotdirect/starknet-mcp-server](https://github.com/mcpdotdirect/starknet-mcp-server) - A comprehensive Model Context Protocol (MCP) server for the Starknet blockchain. This server provides AI agents with the ability to interact with Starknet networks, query blockchain data, manage wallets, and interact with smart contracts.
 - [RomThpt/mcp-xrpl](https://github.com/RomThpt/mcp-xrpl) - A comprehensive Model Context Protocol (MCP) server that provides blockchain services for the XRP Ledger ecosystem.
 - [hawkli-1994/go-sui-mcp](https://github.com/hawkli-1994/go-sui-mcp) - A Go-based management control plane server for Sui blockchain, providing MCP (Management Control Plane) tools to interact with local Sui client commands. This project integrates with Cursor IDE for enhanced development experience.
+- [XRPL Referee](https://github.com/eamwhite1/xrpl-referee) — Trustless AI task verification and XRPL escrow management with automatic XRP payment release.
 
 
 ### 💰 <a name="trading"></a>Trading
