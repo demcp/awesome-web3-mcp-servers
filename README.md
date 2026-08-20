@@ -114,6 +114,7 @@ DeFi MCP modules interact with DeFi protocols by abstracting their interfaces in
 - [kukapay/uniswap-poolspy-mcp](https://github.com/kukapay/uniswap-poolspy-mcp) - An MCP server that tracks newly created liquidity pools on Uniswap across nine blockchain networks.
 - [assetCLI/assetCLI-init](https://github.com/assetCLI/assetCLI-init) - assetCLI - Goldman Sachs for AI Agents. Winner of the Solana MCP AI Agent Competition. Vibe coding bonding curves, DEX & DAOs
 - [collinsezedike/wormhole-mcp](https://github.com/collinsezedike/wormhole-mcp) - A TypeScript/Node.js Model Context Protocol (MCP) server that enables automatic transfer of tokens across multiple blockchains using the Wormhole SDK.
+- [ezequiellich44-cmd/MandateGuard](https://github.com/ezequiellich44-cmd/MandateGuard) - Deterministic payment/transfer policy layer for DeFi agents: pre-action gate enforcing budgets, allowlists, denylists, rate limits, and signed Ed25519 mandates before any token transfer executes. Zero LLM in the decision path, tamper-evident SHA-256 ledger, official MCP server on the Model Context Protocol Registry.
 
 
 ### 📊 <a name="market-data"></a>Market Data
