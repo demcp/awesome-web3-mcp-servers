@@ -137,6 +137,7 @@ Market Data MCP modules retrieve real-time market data from on-chain and off-cha
 - [kukapay/cryptopanic-mcp-server](https://github.com/kukapay/cryptopanic-mcp-server) - Provide the latest cryptocurrency news to AI agents, powered by CryptoPanic.
 - [kukapay/crypto-feargreed-mcp](https://github.com/kukapay/crypto-feargreed-mcp) - An MCP server that provides real-time and historical Crypto Fear & Greed Index data, powered by the Alternative.me.
 - [kukapay/crypto-indicators-mcp](https://github.com/kukapay/crypto-indicators-mcp) - An MCP server providing a range of cryptocurrency technical analysis indicators and strategie.
+- [snowkidind/snowsignals-mcp](https://github.com/snowkidind/snowsignals-mcp) - Crypto market-phase classification per timeframe plus a Bitcoin-derived model of how each phase historically resolves; free discovery tools, metered live reads. Remote MCP at snowsignals.io.
 - [kukapay/crypto-news-mcp](https://github.com/kukapay/crypto-news-mcp) - An MCP server that provides real-time cryptocurrency news sourced from NewsData for AI agents.
 - [kukapay/crypto-portfolio-mcp](https://github.com/kukapay/crypto-portfolio-mcp) - An MCP server for tracking and managing cryptocurrency portfolio allocations.
 - [kukapay/crypto-sentiment-mcp](https://github.com/kukapay/crypto-sentiment-mcp) - An MCP server that delivers cryptocurrency sentiment analysis to AI agents.
