@@ -124,6 +124,7 @@ Market Data MCP modules retrieve real-time market data from on-chain and off-cha
 - [truss44/mcp-crypto-price](https://github.com/truss44/mcp-crypto-price) - A Model Context Protocol (MCP) server that provides comprehensive cryptocurrency analysis using the CoinCap API.
 - [heurist-network/heurist-mesh-mcp-server](https://github.com/heurist-network/heurist-mesh-mcp-server) - An Model Context Protocol (MCP) server that connects to Heurist Mesh APIs, providing Claude with access to various blockchain and web3 tools.
 - [QuantGeekDev/coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp) - A coincap mcp server to access crypto data from coincap API.
+- [zambodotdev/zambo-mcp](https://github.com/zambodotdev/zambo-mcp) - Zero-auth MCP execution layer: 120 tools across 17 products including live crypto/fiat prices and USDC payments on Base via x402. Free 20 calls/tool/day, no account.
 - [kukapay/crypto-liquidations-mcp](https://github.com/kukapay/crypto-liquidations-mcp) - Streams real-time cryptocurrency liquidation events from Binance.
 - [kukapay/crypto-orderbook-mcp](https://github.com/kukapay/crypto-orderbook-mcp) - Analyzing order book depth and imbalance across major crypto exchanges.
 - [kukapay/crypto-pegmon-mcp](https://github.com/kukapay/crypto-pegmon-mcp) -  Tracking stablecoin peg integrity across multiple blockchains.
