@@ -114,6 +114,7 @@ DeFi MCP modules interact with DeFi protocols by abstracting their interfaces in
 - [kukapay/uniswap-poolspy-mcp](https://github.com/kukapay/uniswap-poolspy-mcp) - An MCP server that tracks newly created liquidity pools on Uniswap across nine blockchain networks.
 - [assetCLI/assetCLI-init](https://github.com/assetCLI/assetCLI-init) - assetCLI - Goldman Sachs for AI Agents. Winner of the Solana MCP AI Agent Competition. Vibe coding bonding curves, DEX & DAOs
 - [collinsezedike/wormhole-mcp](https://github.com/collinsezedike/wormhole-mcp) - A TypeScript/Node.js Model Context Protocol (MCP) server that enables automatic transfer of tokens across multiple blockchains using the Wormhole SDK.
+- [HostDeFi](https://hostdefi.com) - Token risk checks, scam detection, and non-custodial swap routing across Solana and EVM chains. Remote MCP server metered over x402 (official registry entry `io.github.verixiaapps/hostdefi-x402`).
 
 
 ### 📊 <a name="market-data"></a>Market Data
