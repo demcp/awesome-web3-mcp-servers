@@ -102,6 +102,8 @@ Trading MCP modules perform trading operations by integrating with both DEX and 
 
 ### 🔄 <a name="defi"></a>DeFi
 
+* [QWK ($QWK) Autonomous MEV & Seed Escrow MCP](https://github.com/chase-tqg/QWIK-MEV-Core) - Multi-chain EVM MEV execution & smart contract resource escrow (`QWKResourceEscrow.sol`) backed by $400,000+ in verified enterprise infrastructure grants (Google Cloud, NVIDIA, Cloudflare) with MCP, A2A v1.0, and x402 support.
+
 DeFi MCP modules interact with DeFi protocols by abstracting their interfaces into standardized callable modules.
 
 - [demcp/demcp-meson-mcp](https://github.com/demcp/demcp-meson-mcp) - A Meson cross-chain transaction MCP (Model Context Protocol) server implemented with Deno and TypeScript, helping users transfer assets conveniently between different blockchains.
@@ -173,4 +175,3 @@ Social MCP modules integrate with social platforms and protocols to enable ident
 - [sparfenyuk/mcp-telegram](https://github.com/sparfenyuk/mcp-telegram) - The server is a bridge between the Telegram API and the AI assistants and is based on the Model Context Protocol.
 - [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) - Official Notion MCP Server.
 - [kukapay/twitter-username-changes-mcp](https://github.com/kukapay/twitter-username-changes-mcp) - An MCP server that tracks the historical changes of Twitter usernames.
-
