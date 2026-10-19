@@ -143,6 +143,7 @@ Market Data MCP modules retrieve real-time market data from on-chain and off-cha
 - [kukapay/crypto-trending-mcp](https://github.com/kukapay/crypto-trending-mcp) - Tracking the latest trending tokens on CoinGecko.
 - [kukapay/crypto-whitepapers-mcp](https://github.com/kukapay/crypto-whitepapers-mcp) - Serving as a structured knowledge base of crypto whitepapers.
 - [kukapay/funding-rates-mcp](https://github.com/kukapay/funding-rates-mcp) - Providing real-time funding rate data across major crypto exchanges.
+- [c-viper-work/omniroute-bridge-mcp](https://github.com/c-viper-work/omniroute-bridge-mcp) - Instant cross-chain bridge, Polymarket (`USDC.e` + `POL` on Polygon) & Hyperliquid (`HYPE` on HyperEVM / `USDC` on Arbitrum) one-click onboarding, and multi-wallet gas refuel MCP server & CLI powered by Relay Protocol.
 - [kukapay/rug-check-mcp](https://github.com/kukapay/rug-check-mcp) - An MCP server that detects potential risks in Solana meme tokens.
 - [kukapay/whale-tracker-mcp](https://github.com/kukapay/whale-tracker-mcp) - An Model Context Protocol (MCP) server for tracking cryptocurrency whale transactions using the Whale Alert API.
 - [aaronjmars/web3-research-mcp](https://github.com/aaronjmars/web3-research-mcp/) - Deep Research for crypto - free & fully local.
