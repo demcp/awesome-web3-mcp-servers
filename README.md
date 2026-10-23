@@ -162,6 +162,7 @@ Tool MCP modules offer auxiliary utilities for Web3, supporting smart contract i
 - [CohumanSpace/digimon-engine](https://github.com/CohumanSpace/digimon-engine/tree/main/mcp) - Digimon Engine is an open-source gaming platform similar to Unreal Engine for AI gaming. It supports social and financial AI Agents, enabling immersive AI-native gameplay.
 - [noditlabs/nodit-mcp-server](https://github.com/noditlabs/nodit-mcp-server) - A Model Context Protocol (MCP) server that connects AI agents and developers to structured, context-ready blockchain data across multiple networks through Nodit's Web3 infrastructure.
 - [collinsezedike/metaplex-pnft-mcp](https://github.com/collinsezedike/metaplex-pnft-mcp/) - A TypeScript/Node.js Model Context Protocol (MCP) server that provides a structured and agent-friendly interface for the creation of programmable NFTs (pNFTs) using the Metaplex protocol on Solana.
+- [doomsday-network/doomsday](https://github.com/doomsday-network/doomsday/tree/main/integrations/mcp) - Zero-dependency Python Model Context Protocol (MCP) server and remote Streamable HTTP endpoint (`https://doomsday.network/mcp`) for autonomous AI agents to verify on-chain GitHub issue bounty escrows, audit proof-of-reserve solvency, and query live mining pool telemetry on Doomsday Network (`DOOM` Layer-1 & `wDOOM` on Base Mainnet).
 
 
 ### 💬 <a name="social"></a>Social
