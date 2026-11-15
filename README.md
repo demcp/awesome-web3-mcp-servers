@@ -174,3 +174,5 @@ Social MCP modules integrate with social platforms and protocols to enable ident
 - [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) - Official Notion MCP Server.
 - [kukapay/twitter-username-changes-mcp](https://github.com/kukapay/twitter-username-changes-mcp) - An MCP server that tracks the historical changes of Twitter usernames.
 
+
+- [opensmm-protocol/mcp-server](https://github.com/opensmm-protocol/mcp-server) - Open protocol and reference gateway for ordering social media growth services (followers, views, reactions) from AI agents: catalog search, quotes and idempotent orders over REST /v0 and MCP tools, with x402/USDC-on-Base settlement paid directly to the provider wallet — the gateway routes and measures but never custodies funds.
