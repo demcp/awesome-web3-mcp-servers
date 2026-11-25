@@ -114,6 +114,7 @@ DeFi MCP modules interact with DeFi protocols by abstracting their interfaces in
 - [kukapay/uniswap-poolspy-mcp](https://github.com/kukapay/uniswap-poolspy-mcp) - An MCP server that tracks newly created liquidity pools on Uniswap across nine blockchain networks.
 - [assetCLI/assetCLI-init](https://github.com/assetCLI/assetCLI-init) - assetCLI - Goldman Sachs for AI Agents. Winner of the Solana MCP AI Agent Competition. Vibe coding bonding curves, DEX & DAOs
 - [collinsezedike/wormhole-mcp](https://github.com/collinsezedike/wormhole-mcp) - A TypeScript/Node.js Model Context Protocol (MCP) server that enables automatic transfer of tokens across multiple blockchains using the Wormhole SDK.
+- [EzeLich/paygate-usdt](https://github.com/EzeLich/paygate-usdt) - Non-custodial 6-chain USDT/USDC payment gateway MCP server (`@mcp_tool_paywall`, recurring subscriptions, on-chain transfer verification, and HTTP 402 x402 paywalls across Base, Polygon, Arbitrum, BSC, Ethereum, and Solana).
 
 
 ### 📊 <a name="market-data"></a>Market Data
@@ -162,6 +163,7 @@ Tool MCP modules offer auxiliary utilities for Web3, supporting smart contract i
 - [CohumanSpace/digimon-engine](https://github.com/CohumanSpace/digimon-engine/tree/main/mcp) - Digimon Engine is an open-source gaming platform similar to Unreal Engine for AI gaming. It supports social and financial AI Agents, enabling immersive AI-native gameplay.
 - [noditlabs/nodit-mcp-server](https://github.com/noditlabs/nodit-mcp-server) - A Model Context Protocol (MCP) server that connects AI agents and developers to structured, context-ready blockchain data across multiple networks through Nodit's Web3 infrastructure.
 - [collinsezedike/metaplex-pnft-mcp](https://github.com/collinsezedike/metaplex-pnft-mcp/) - A TypeScript/Node.js Model Context Protocol (MCP) server that provides a structured and agent-friendly interface for the creation of programmable NFTs (pNFTs) using the Metaplex protocol on Solana.
+- [EzeLich/chainguard-mcp](https://github.com/EzeLich/chainguard-mcp) - 15-tool Web3 security firewall MCP server for live EIP-7702 EOA delegation hijack detection, Solana Token-2022 drainer audits, EVM calldata pre-flight checks, ERC-20 allowance revocation, and multi-chain dust consolidation.
 
 
 ### 💬 <a name="social"></a>Social
