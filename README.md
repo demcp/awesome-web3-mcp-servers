@@ -120,6 +120,7 @@ DeFi MCP modules interact with DeFi protocols by abstracting their interfaces in
 
 Market Data MCP modules retrieve real-time market data from on-chain and off-chain sources via unified query interfaces.
 
+- [lightsmite/giftchecker-mcp](https://github.com/lightsmite/giftchecker-mcp) - Remote MCP server for live Telegram gift floor prices, rarity traits, sales history, marketplace listings, and Stars/TON/USD valuation.
 - [Nayshins/mcp-server-ccxt](https://github.com/Nayshins/mcp-server-ccxt) - An Model Context Protocol (MCP) server that provides real-time and historical cryptocurrency market data through integration with major exchanges.
 - [truss44/mcp-crypto-price](https://github.com/truss44/mcp-crypto-price) - A Model Context Protocol (MCP) server that provides comprehensive cryptocurrency analysis using the CoinCap API.
 - [heurist-network/heurist-mesh-mcp-server](https://github.com/heurist-network/heurist-mesh-mcp-server) - An Model Context Protocol (MCP) server that connects to Heurist Mesh APIs, providing Claude with access to various blockchain and web3 tools.
